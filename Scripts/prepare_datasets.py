@@ -35,34 +35,36 @@ with open(os.path.join(BASE_DIR, "left_data.csv"), newline='') as csvfile:
     next(reader)
     for row in reader:
         left_image_path, left_diagnostic,  *_ = row
-        if left_diagnostic.lower() == 'cataract' :
-            left_image_paths.append(left_image_path)
-            labels.append('cataract')
-        elif 'drusen' in left_diagnostic.lower() and 'cataract' in left_diagnostic.lower() and 'lens dust'in  left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('cataract')
-        elif 'cataract' in left_diagnostic.lower() and 'suspected glaucoma' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('cataract')
-        elif 'cataract' in left_diagnostic.lower() and 'cataract' in left_diagnostic.lower() and 'lens dust'in  left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('cataract')
+        # if left_diagnostic.lower() == 'cataract' :
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('cataract')
             
-        elif left_diagnostic.lower() == 'normal fundus':
-            left_image_paths.append(left_image_path)
-            labels.append('normal')
-        elif 'lens dust' in left_diagnostic.lower() and 'normal fundus' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('normal')
-            
-
-        elif 'moderate non proliferative retinopathy' in left_diagnostic.lower() and 'chorioretinal atrophy' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('diabetes')
-        elif 'moderate non proliferative retinopathy' in left_diagnostic.lower() and 'macular epiretinal membrane' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('diabetes')
-        elif 'moderate non proliferative retinopathy' in left_diagnostic.lower() and 'lens dust' in left_diagnostic.lower() and 'drusen'in  left_diagnostic.lower():
+        # elif left_diagnostic.lower() == 'normal fundus':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('normal')
+        # elif 'lens dust' in left_diagnostic.lower() and 'normal fundus' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('normal')
+        
+        # elif 'laser spot' in left_diagnostic.lower() and 'moderate non proliferative retinopathy' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('diabetes')
+        # elif 'laser spot' in left_diagnostic.lower() and 'mild nonproliferative retinopathy' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('diabetes')
+        # elif 'mild nonproliferative retinopathy' in left_diagnostic.lower() and 'epiretinal membrane' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('diabetes')
+        # elif 'mild nonproliferative retinopathy' in left_diagnostic.lower() and 'myelinated nerve fibers' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('diabetes')
+        # elif 'epiretinal membrane' in left_diagnostic.lower() and 'moderate non proliferative retinopathy' in left_diagnostic.lower() and 'laser spot'in  left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('diabetes')
+        # elif 'laser spot' in left_diagnostic.lower() and 'white vessel' in left_diagnostic.lower() and 'moderate non proliferative retinopathyt'in  left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('diabetes')
+        elif 'laser spot' in left_diagnostic.lower() and 'vitreous degeneration' in left_diagnostic.lower() and 'mild non proliferative retinopathyt'in  left_diagnostic.lower():
             left_image_paths.append(left_image_path)
             labels.append('diabetes')
         elif 'moderate non proliferative retinopathy' in left_diagnostic.lower() and 'retina fold' in left_diagnostic.lower():
@@ -263,248 +265,187 @@ with open(os.path.join(BASE_DIR, "left_data.csv"), newline='') as csvfile:
         elif left_diagnostic.lower() == ' glaucoma':
             left_image_paths.append(left_image_path)
             labels.append('glaucoma')
+    
+        # elif left_diagnostic.lower() == 'optic disc edema':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'macular epiretinal membrane':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == '"low image quality,maculopathy"':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
             
+        # elif left_diagnostic.lower() == 'macular coloboma':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'pigment epithelium proliferation':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'retinitis pigmentosa':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'myelinated nerve fibers':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'refractive media opacity':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'spotted membranous change':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'branch retinal vein occlusion':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'wedge white line change':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
             
-        elif left_diagnostic.lower() == 'optic disc edema':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'epiretinal membrane over the macula':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'macular epiretinal membrane':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == '"low image quality,maculopathy"':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'macular coloboma':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'maculopathy':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'pigment epithelium proliferation':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'retinitis pigmentosa':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'myelinated nerve fibers':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'refractive media opacity':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'spotted membranous change':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'branch retinal vein occlusion':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'wedge white line change':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'macular hole':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'vitreous degeneration':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'tessellated fundus':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'depigmentation of the retinal pigment epithelium':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'rhegmatogenous retinal detachment':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'suspected retinal vascular sheathing':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'central retinal vein occlusion':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'drusen':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'epiretinal membrane':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'spotted membranous change' in left_diagnostic.lower() and 'spotted membranous change' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'macular epiretinal membrane' in left_diagnostic.lower() and 'vessel tortuosity' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'old choroiditis' in left_diagnostic.lower() and 'macular epiretinal membrane' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'chorioretinal atrophy with pigmentation proliferation' in left_diagnostic.lower() and 'epiretinal membrane' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'chorioretinal atrophy with pigmentation proliferation' in left_diagnostic.lower() and 'lens dust' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'vitreous degeneration' in left_diagnostic.lower() and 'lens dust' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'lens dust' in left_diagnostic.lower() and 'macular epiretinal membrane' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'lens dust' in left_diagnostic.lower() and 'epiretinal membrane' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'lens dust' in left_diagnostic.lower() and 'myelinated nerve fibers' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'maculopathy' in left_diagnostic.lower() and 'macular epiretinal membrane' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'macular epiretinal membrane' in left_diagnostic.lower() and 'lens dust' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'drusen' in left_diagnostic.lower() and 'lens dust' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'lens dust' in left_diagnostic.lower() and 'drusen' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'retinitis pigmentosa':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'lens dust' in left_diagnostic.lower() and 'spotted membranous change' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'lens dust' in left_diagnostic.lower() and 'rhegmatogenous retinal detachment' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'branch retinal vein occlusion':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'epiretinal membrane' in left_diagnostic.lower() and 'myelinated nerve fibers' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'optic disc edema' in left_diagnostic.lower() and 'central retinal vein occlusion' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'epiretinal membrane' in left_diagnostic.lower() and 'lens dust' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'epiretinal membrane over the macula' in left_diagnostic.lower() and 'white vessel' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'epiretinal membrane' in left_diagnostic.lower() and 'drusen' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'atrophy':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'retinochoroidal coloboma':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'chorioretinal atrophy':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'laser spot':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'optic disk epiretinal membrane':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'optic disk photographically invisible':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'old chorioretinopathy':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif 'laser spot' in left_diagnostic.lower() and 'white vessel' in left_diagnostic.lower():
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
-        elif left_diagnostic.lower() == 'central retinal vein occlusion':
-            left_image_paths.append(left_image_path)
-            labels.append('other disease')
+        # elif left_diagnostic.lower() == 'macular hole':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'vitreous degeneration':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'tessellated fundus':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'depigmentation of the retinal pigment epithelium':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'rhegmatogenous retinal detachment':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'suspected retinal vascular sheathing':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'central retinal vein occlusion':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'drusen':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'epiretinal membrane':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif 'spotted membranous change' in left_diagnostic.lower() and 'spotted membranous change' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif 'macular epiretinal membrane' in left_diagnostic.lower() and 'vessel tortuosity' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif 'old choroiditis' in left_diagnostic.lower() and 'macular epiretinal membrane' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif 'chorioretinal atrophy with pigmentation proliferation' in left_diagnostic.lower() and 'epiretinal membrane' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif 'vitreous degeneration' in left_diagnostic.lower() and 'lens dust' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif 'lens dust' in left_diagnostic.lower() and 'macular epiretinal membrane' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif 'maculopathy' in left_diagnostic.lower() and 'macular epiretinal membrane' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif 'drusen' in left_diagnostic.lower() and 'lens dust' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'retinitis pigmentosa':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif 'lens dust' in left_diagnostic.lower() and 'spotted membranous change' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif 'lens dust' in left_diagnostic.lower() and 'rhegmatogenous retinal detachment' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'branch retinal vein occlusion':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif 'epiretinal membrane' in left_diagnostic.lower() and 'myelinated nerve fibers' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif 'epiretinal membrane' in left_diagnostic.lower() and 'lens dust' in left_diagnostic.lower():
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'atrophy':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'retinochoroidal coloboma':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'chorioretinal atrophy':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+        # elif left_diagnostic.lower() == 'laser spot':
+        #     left_image_paths.append(left_image_path)
+        #     labels.append('other disease')
+            
+diagnostic_combinations = {
+    ('cataract'): 'cataract',
 
+    ('normal fundus'): 'normal',
+    ('lens dust','normal fundus'): 'normal',
+
+    ('laser spot','white vessel','moderate non proliferative retinopathy'): 'diabetes',
+    ('laser spot','vitreous degeneration','mild non proliferative retinopathyt'): 'diabetes',
+    ('laser spot','moderate non proliferative retinopathy'): 'diabetes',
+    ('laser spot','mild nonproliferative retinopathy'): 'diabetes',
+    ('mild nonproliferative retinopathy','epiretinal membrane'): 'diabetes',
+    ('mild nonproliferative retinopathy', 'myelinated nerve fibers'): 'diabetes',
+    ('epiretinal membrane', 'moderate non proliferative retinopathy', 'laser spot'): 'diabetes',
+    
+
+    ('optic disc edema'): 'other disease',
+    ('macular epiretinal membrane'): 'other disease',
+    ('low image quality,maculopathy'): 'other disease',
+    ('macular coloboma'): 'other disease',
+    ('pigment epithelium proliferation'): 'other disease',
+    ('retinitis pigmentosa'): 'other disease',
+    ('myelinated nerve fibers'): 'other disease',
+    ('refractive media opacity'): 'other disease',
+    ('spotted membranous change'): 'other disease',
+    ('branch retinal vein occlusion'): 'other disease',
+    ('wedge white line change'): 'other disease',
+    ('macular hole'): 'other disease',
+    ('vitreous degeneration'): 'other disease',
+    ('tessellated fundus'): 'other disease',
+    ('depigmentation of the retinal pigment epithelium'): 'other disease',
+    ('rhegmatogenous retinal detachment'): 'other disease',
+    ('suspected retinal vascular sheathing'): 'other disease',
+    ('central retinal vein occlusion'): 'other disease',
+    ('drusen'): 'other disease',
+    ('epiretinal membrane'): 'other disease',
+    ('spotted membranous change','vessel tortuosity'): 'other disease',
+    ('old choroiditis','macular epiretinal membrane'): 'other disease',
+    ('chorioretinal atrophy with pigmentation proliferation','epiretinal membrane'): 'other disease',
+    ('vitreous degeneration','lens dust'): 'other disease',
+    ('lens dust','macular epiretinal membrane'): 'other disease',
+    ('maculopathy','macular epiretinal membrane'): 'other disease',
+    ('drusen','lens dust'): 'other disease',
+    ('retinitis pigmentosa'): 'other disease',
+    ('lens dust','spotted membranous change'): 'other disease',
+    ('lens dust','rhegmatogenous retinal detachment'): 'other disease',
+    ('branch retinal vein occlusion'): 'other disease',
+    ('epiretinal membrane','myelinated nerve fibers'): 'other disease',
+    ('epiretinal membrane','lens dust'): 'other disease',
+    ('atrophy'): 'other disease',
+    ('retinochoroidal coloboma'): 'other disease',
+    ('chorioretinal atrophy'): 'other disease',
+    ('laser spot'): 'other disease',
+}
+
+for combination, label in diagnostic_combinations.items():
+    if all(diagnosis in left_diagnostic.lower() for diagnosis in combination):
+        left_image_paths.append(left_image_path)
+        labels.append(label)
+        
+            
 with open('left.csv', mode='w', newline='') as output_file:
     writer = csv.writer(output_file)
     writer.writerow(['Image Path', 'Label'])
     for left_path, label in zip(left_image_paths,labels):
         writer.writerow([left_path, label])
         
-        
-# import csv
-
-# diagnostic_combinations = {
-#     ('cataract',): 'cataract',
-
-#     ('normal fundus',): 'normal',
-#     ('lens dust', 'normal fundus'): 'normal',
-
-#     ('laser spot', 'white vessel', 'moderate non proliferative retinopathy'): 'diabetes',
-#     ('laser spot', 'vitreous degeneration', 'mild non proliferative retinopathy'): 'diabetes',
-#     ('laser spot', 'moderate non proliferative retinopathy'): 'diabetes',
-#     ('laser spot', 'mild nonproliferative retinopathy'): 'diabetes',
-#     ('mild nonproliferative retinopathy', 'epiretinal membrane'): 'diabetes',
-#     ('mild nonproliferative retinopathy', 'myelinated nerve fibers'): 'diabetes',
-#     ('epiretinal membrane', 'moderate non proliferative retinopathy', 'laser spot'): 'diabetes',
-
-#     ('optic disc edema',): 'other disease',
-#     ('macular epiretinal membrane',): 'other disease',
-#     ('low image quality', 'maculopathy'): 'other disease',
-#     ('macular coloboma',): 'other disease',
-#     ('pigment epithelium proliferation',): 'other disease',
-#     ('retinitis pigmentosa',): 'other disease',
-#     ('myelinated nerve fibers',): 'other disease',
-#     ('refractive media opacity',): 'other disease',
-#     ('spotted membranous change',): 'other disease',
-#     ('branch retinal vein occlusion',): 'other disease',
-#     ('wedge white line change',): 'other disease',
-#     ('macular hole',): 'other disease',
-#     ('vitreous degeneration',): 'other disease',
-#     ('tessellated fundus',): 'other disease',
-#     ('depigmentation of the retinal pigment epithelium',): 'other disease',
-#     ('rhegmatogenous retinal detachment',): 'other disease',
-#     ('suspected retinal vascular sheathing',): 'other disease',
-#     ('central retinal vein occlusion',): 'other disease',
-#     ('drusen',): 'other disease',
-#     ('epiretinal membrane',): 'other disease',
-#     ('spotted membranous change', 'vessel tortuosity'): 'other disease',
-#     ('old choroiditis', 'macular epiretinal membrane'): 'other disease',
-#     ('chorioretinal atrophy with pigmentation proliferation', 'epiretinal membrane'): 'other disease',
-#     ('vitreous degeneration', 'lens dust'): 'other disease',
-#     ('lens dust', 'macular epiretinal membrane'): 'other disease',
-#     ('maculopathy', 'macular epiretinal membrane'): 'other disease',
-#     ('drusen', 'lens dust'): 'other disease',
-#     ('retinitis pigmentosa',): 'other disease',
-#     ('lens dust', 'spotted membranous change'): 'other disease',
-#     ('lens dust', 'rhegmatogenous retinal detachment'): 'other disease',
-#     ('branch retinal vein occlusion',): 'other disease',
-#     ('epiretinal membrane', 'myelinated nerve fibers'): 'other disease',
-#     ('epiretinal membrane', 'lens dust'): 'other disease',
-#     ('atrophy',): 'other disease',
-#     ('retinochoroidal coloboma',): 'other disease',
-#     ('chorioretinal atrophy',): 'other disease',
-#     ('laser spot',): 'other disease',
-# }
-# print("Left Image Paths:", left_image_paths)
-# print("Labels:", labels)
-
-
-# # Assuming you have a list of left_image_paths and labels initialized before the loop
-# left_image_paths = []
-# labels = []
-
-# # Assuming you have a list of left_image_paths and labels initialized before the loop
-# for left_path, label in zip(left_image_paths, labels):
-#     for combination, diagnosis_label in diagnostic_combinations.items():
-#         if all(diagnosis in left_path.lower() for diagnosis in combination):
-#             labels.append(diagnosis_label)
-#             break
-#     else:
-#         labels.append('unknown')
-
-# with open('lefttt.csv', mode='w', newline='') as output_file:
-#     writer = csv.writer(output_file)
-#     writer.writerow(['Image Path', 'Label'])
-#     for left_path, label in zip(left_image_paths, labels):
-#         writer.writerow([left_path, label])
