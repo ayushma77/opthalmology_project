@@ -1,0 +1,3088 @@
+Image Path,Label
+0_left.jpg,cataract
+1_left.jpg,normal
+2_left.jpg,diabetes
+3_left.jpg,normal
+4_left.jpg,other disease
+5_left.jpg,diabetes
+6_left.jpg,other disease
+7_left.jpg,other disease
+8_left.jpg,normal
+9_left.jpg,normal
+10_left.jpg,other disease
+11_left.jpg,diabetes
+13_left.jpg,myopia
+14_left.jpg,normal
+15_left.jpg,normal
+16_left.jpg,normal
+17_left.jpg,other disease
+18_left.jpg,myopia
+19_left.jpg,diabetes
+20_left.jpg,other disease
+21_left.jpg,other disease
+22_left.jpg,diabetes
+23_left.jpg,hypertension
+24_left.jpg,normal
+25_left.jpg,normal
+26_left.jpg,diabetes
+27_left.jpg,normal
+28_left.jpg,hypertension
+29_left.jpg,other disease
+30_left.jpg,glaucoma
+31_left.jpg,other disease
+32_left.jpg,hypertension
+33_left.jpg,normal
+34_left.jpg,other disease
+35_left.jpg,myopia
+36_left.jpg,other disease
+37_left.jpg,diabetes
+38_left.jpg,other disease
+39_left.jpg,myopia
+40_left.jpg,other disease
+41_left.jpg,diabetes
+42_left.jpg,normal
+43_left.jpg,AMD
+44_left.jpg,diabetes
+45_left.jpg,hypertension
+46_left.jpg,diabetes
+47_left.jpg,diabetes
+48_left.jpg,AMD
+49_left.jpg,diabetes
+50_left.jpg,diabetes
+51_left.jpg,normal
+52_left.jpg,normal
+53_left.jpg,AMD
+54_left.jpg,normal
+55_left.jpg,AMD
+56_left.jpg,normal
+57_left.jpg,normal
+58_left.jpg,normal
+59_left.jpg,normal
+60_left.jpg,normal
+61_left.jpg,other disease
+62_left.jpg,hypertension
+63_left.jpg,normal
+64_left.jpg,diabetes
+65_left.jpg,other disease
+66_left.jpg,other disease
+67_left.jpg,diabetes
+68_left.jpg,normal
+69_left.jpg,normal
+70_left.jpg,other disease
+71_left.jpg,diabetes
+72_left.jpg,diabetes
+73_left.jpg,other disease
+74_left.jpg,diabetes
+75_left.jpg,other disease
+76_left.jpg,other disease
+77_left.jpg,diabetes
+78_left.jpg,other disease
+79_left.jpg,other disease
+80_left.jpg,normal
+81_left.jpg,diabetes
+82_left.jpg,normal
+83_left.jpg,normal
+84_left.jpg,normal
+85_left.jpg,normal
+86_left.jpg,diabetes
+87_left.jpg,diabetes
+88_left.jpg,normal
+89_left.jpg,other disease
+90_left.jpg,diabetes
+91_left.jpg,normal
+92_left.jpg,normal
+93_left.jpg,diabetes
+94_left.jpg,normal
+95_left.jpg,glaucoma
+96_left.jpg,other disease
+97_left.jpg,normal
+98_left.jpg,other disease
+99_left.jpg,other disease
+100_left.jpg,other disease
+101_left.jpg,other disease
+102_left.jpg,AMD
+103_left.jpg,cataract
+104_left.jpg,other disease
+105_left.jpg,other disease
+106_left.jpg,myopia
+107_left.jpg,normal
+108_left.jpg,diabetes
+109_left.jpg,other disease
+110_left.jpg,other disease
+111_left.jpg,diabetes
+112_left.jpg,normal
+114_left.jpg,other disease
+115_left.jpg,other disease
+116_left.jpg,hypertension
+117_left.jpg,normal
+118_left.jpg,diabetes
+119_left.jpg,cataract
+120_left.jpg,diabetes
+121_left.jpg,diabetes
+122_left.jpg,other disease
+123_left.jpg,other disease
+124_left.jpg,normal
+125_left.jpg,other disease
+126_left.jpg,AMD
+127_left.jpg,diabetes
+128_left.jpg,normal
+129_left.jpg,other disease
+131_left.jpg,other disease
+132_left.jpg,normal
+134_left.jpg,other disease
+135_left.jpg,other disease
+136_left.jpg,AMD
+137_left.jpg,normal
+138_left.jpg,other disease
+139_left.jpg,diabetes
+140_left.jpg,normal
+142_left.jpg,other disease
+143_left.jpg,normal
+144_left.jpg,myopia
+145_left.jpg,myopia
+146_left.jpg,normal
+147_left.jpg,normal
+148_left.jpg,other disease
+149_left.jpg,normal
+150_left.jpg,other disease
+151_left.jpg,normal
+152_left.jpg,AMD
+154_left.jpg,other disease
+155_left.jpg,normal
+156_left.jpg,other disease
+157_left.jpg,diabetes
+158_left.jpg,AMD
+159_left.jpg,diabetes
+160_left.jpg,normal
+161_left.jpg,diabetes
+162_left.jpg,AMD
+163_left.jpg,diabetes
+164_left.jpg,AMD
+165_left.jpg,other disease
+166_left.jpg,normal
+168_left.jpg,AMD
+170_left.jpg,other disease
+171_left.jpg,diabetes
+172_left.jpg,other disease
+173_left.jpg,normal
+174_left.jpg,myopia
+175_left.jpg,other disease
+176_left.jpg,diabetes
+177_left.jpg,diabetes
+178_left.jpg,glaucoma
+179_left.jpg,hypertension
+180_left.jpg,other disease
+181_left.jpg,other disease
+182_left.jpg,other disease
+183_left.jpg,other disease
+184_left.jpg,normal
+185_left.jpg,other disease
+186_left.jpg,diabetes
+187_left.jpg,normal
+189_left.jpg,normal
+190_left.jpg,normal
+191_left.jpg,normal
+192_left.jpg,other disease
+193_left.jpg,other disease
+194_left.jpg,normal
+195_left.jpg,diabetes
+196_left.jpg,other disease
+197_left.jpg,normal
+199_left.jpg,other disease
+200_left.jpg,other disease
+201_left.jpg,diabetes
+202_left.jpg,normal
+203_left.jpg,diabetes
+204_left.jpg,other disease
+205_left.jpg,other disease
+206_left.jpg,diabetes
+207_left.jpg,diabetes
+208_left.jpg,other disease
+210_left.jpg,AMD
+211_left.jpg,diabetes
+212_left.jpg,diabetes
+213_left.jpg,normal
+214_left.jpg,normal
+215_left.jpg,other disease
+217_left.jpg,other disease
+218_left.jpg,other disease
+219_left.jpg,other disease
+220_left.jpg,other disease
+222_left.jpg,normal
+223_left.jpg,diabetes
+224_left.jpg,diabetes
+225_left.jpg,myopia
+226_left.jpg,normal
+227_left.jpg,normal
+228_left.jpg,normal
+230_left.jpg,AMD
+231_left.jpg,diabetes
+232_left.jpg,normal
+233_left.jpg,normal
+234_left.jpg,diabetes
+235_left.jpg,AMD
+236_left.jpg,other disease
+237_left.jpg,normal
+238_left.jpg,AMD
+239_left.jpg,other disease
+240_left.jpg,other disease
+241_left.jpg,normal
+242_left.jpg,other disease
+243_left.jpg,AMD
+244_left.jpg,other disease
+245_left.jpg,normal
+246_left.jpg,other disease
+247_left.jpg,glaucoma
+248_left.jpg,other disease
+249_left.jpg,diabetes
+250_left.jpg,diabetes
+251_left.jpg,diabetes
+252_left.jpg,normal
+253_left.jpg,other disease
+254_left.jpg,cataract
+255_left.jpg,normal
+256_left.jpg,other disease
+258_left.jpg,normal
+259_left.jpg,normal
+260_left.jpg,AMD
+261_left.jpg,other disease
+262_left.jpg,diabetes
+263_left.jpg,diabetes
+264_left.jpg,AMD
+265_left.jpg,AMD
+266_left.jpg,AMD
+267_left.jpg,diabetes
+268_left.jpg,diabetes
+269_left.jpg,other disease
+270_left.jpg,AMD
+271_left.jpg,other disease
+272_left.jpg,hypertension
+273_left.jpg,normal
+274_left.jpg,diabetes
+275_left.jpg,normal
+276_left.jpg,other disease
+277_left.jpg,normal
+278_left.jpg,normal
+280_left.jpg,diabetes
+281_left.jpg,diabetes
+282_left.jpg,diabetes
+283_left.jpg,other disease
+284_left.jpg,diabetes
+285_left.jpg,normal
+286_left.jpg,other disease
+287_left.jpg,other disease
+289_left.jpg,diabetes
+290_left.jpg,normal
+291_left.jpg,normal
+292_left.jpg,AMD
+293_left.jpg,other disease
+294_left.jpg,cataract
+295_left.jpg,normal
+296_left.jpg,diabetes
+297_left.jpg,other disease
+298_left.jpg,other disease
+299_left.jpg,diabetes
+300_left.jpg,hypertension
+301_left.jpg,other disease
+302_left.jpg,normal
+303_left.jpg,normal
+304_left.jpg,diabetes
+306_left.jpg,normal
+307_left.jpg,normal
+308_left.jpg,diabetes
+309_left.jpg,diabetes
+310_left.jpg,normal
+311_left.jpg,diabetes
+312_left.jpg,other disease
+313_left.jpg,normal
+314_left.jpg,diabetes
+315_left.jpg,hypertension
+316_left.jpg,other disease
+317_left.jpg,normal
+318_left.jpg,other disease
+319_left.jpg,AMD
+320_left.jpg,diabetes
+321_left.jpg,AMD
+322_left.jpg,normal
+323_left.jpg,hypertension
+324_left.jpg,diabetes
+325_left.jpg,other disease
+326_left.jpg,normal
+327_left.jpg,diabetes
+328_left.jpg,diabetes
+329_left.jpg,other disease
+330_left.jpg,cataract
+332_left.jpg,normal
+333_left.jpg,normal
+334_left.jpg,AMD
+335_left.jpg,normal
+336_left.jpg,other disease
+337_left.jpg,other disease
+339_left.jpg,normal
+340_left.jpg,diabetes
+342_left.jpg,diabetes
+343_left.jpg,normal
+344_left.jpg,other disease
+345_left.jpg,hypertension
+346_left.jpg,normal
+347_left.jpg,normal
+348_left.jpg,diabetes
+349_left.jpg,normal
+351_left.jpg,other disease
+352_left.jpg,other disease
+353_left.jpg,normal
+354_left.jpg,normal
+355_left.jpg,hypertension
+356_left.jpg,normal
+357_left.jpg,other disease
+359_left.jpg,AMD
+360_left.jpg,other disease
+361_left.jpg,diabetes
+362_left.jpg,normal
+363_left.jpg,other disease
+364_left.jpg,other disease
+365_left.jpg,hypertension
+366_left.jpg,other disease
+367_left.jpg,other disease
+368_left.jpg,diabetes
+369_left.jpg,diabetes
+370_left.jpg,other disease
+371_left.jpg,other disease
+373_left.jpg,normal
+374_left.jpg,hypertension
+375_left.jpg,myopia
+376_left.jpg,normal
+377_left.jpg,AMD
+378_left.jpg,other disease
+379_left.jpg,myopia
+380_left.jpg,diabetes
+381_left.jpg,other disease
+382_left.jpg,myopia
+383_left.jpg,diabetes
+384_left.jpg,normal
+385_left.jpg,normal
+386_left.jpg,diabetes
+387_left.jpg,diabetes
+388_left.jpg,other disease
+389_left.jpg,other disease
+390_left.jpg,normal
+391_left.jpg,normal
+393_left.jpg,normal
+394_left.jpg,normal
+395_left.jpg,other disease
+396_left.jpg,normal
+397_left.jpg,other disease
+398_left.jpg,other disease
+399_left.jpg,diabetes
+400_left.jpg,normal
+401_left.jpg,myopia
+402_left.jpg,other disease
+403_left.jpg,other disease
+404_left.jpg,other disease
+405_left.jpg,normal
+406_left.jpg,other disease
+407_left.jpg,other disease
+409_left.jpg,other disease
+410_left.jpg,AMD
+411_left.jpg,diabetes
+413_left.jpg,diabetes
+414_left.jpg,other disease
+415_left.jpg,diabetes
+416_left.jpg,normal
+419_left.jpg,AMD
+420_left.jpg,diabetes
+421_left.jpg,other disease
+423_left.jpg,normal
+424_left.jpg,AMD
+425_left.jpg,normal
+426_left.jpg,normal
+427_left.jpg,diabetes
+428_left.jpg,diabetes
+429_left.jpg,normal
+430_left.jpg,diabetes
+431_left.jpg,other disease
+432_left.jpg,normal
+433_left.jpg,other disease
+434_left.jpg,normal
+435_left.jpg,diabetes
+436_left.jpg,normal
+437_left.jpg,normal
+438_left.jpg,other disease
+439_left.jpg,normal
+440_left.jpg,normal
+441_left.jpg,diabetes
+442_left.jpg,diabetes
+443_left.jpg,other disease
+444_left.jpg,diabetes
+446_left.jpg,diabetes
+447_left.jpg,AMD
+448_left.jpg,cataract
+449_left.jpg,other disease
+450_left.jpg,other disease
+451_left.jpg,other disease
+452_left.jpg,other disease
+453_left.jpg,other disease
+454_left.jpg,other disease
+455_left.jpg,AMD
+456_left.jpg,other disease
+457_left.jpg,normal
+458_left.jpg,other disease
+459_left.jpg,normal
+460_left.jpg,other disease
+461_left.jpg,normal
+462_left.jpg,diabetes
+463_left.jpg,other disease
+464_left.jpg,AMD
+465_left.jpg,cataract
+466_left.jpg,diabetes
+467_left.jpg,normal
+468_left.jpg,normal
+469_left.jpg,diabetes
+470_left.jpg,other disease
+471_left.jpg,other disease
+474_left.jpg,other disease
+475_left.jpg,diabetes
+476_left.jpg,normal
+477_left.jpg,cataract
+478_left.jpg,other disease
+480_left.jpg,other disease
+481_left.jpg,myopia
+482_left.jpg,other disease
+483_left.jpg,other disease
+485_left.jpg,other disease
+486_left.jpg,diabetes
+487_left.jpg,other disease
+488_left.jpg,normal
+489_left.jpg,diabetes
+490_left.jpg,diabetes
+491_left.jpg,diabetes
+492_left.jpg,diabetes
+493_left.jpg,diabetes
+495_left.jpg,diabetes
+496_left.jpg,normal
+497_left.jpg,diabetes
+499_left.jpg,hypertension
+500_left.jpg,other disease
+502_left.jpg,other disease
+503_left.jpg,other disease
+504_left.jpg,myopia
+507_left.jpg,diabetes
+508_left.jpg,other disease
+509_left.jpg,normal
+510_left.jpg,other disease
+511_left.jpg,normal
+512_left.jpg,diabetes
+513_left.jpg,normal
+514_left.jpg,AMD
+515_left.jpg,normal
+516_left.jpg,diabetes
+517_left.jpg,other disease
+518_left.jpg,other disease
+519_left.jpg,diabetes
+520_left.jpg,other disease
+521_left.jpg,normal
+522_left.jpg,normal
+523_left.jpg,normal
+524_left.jpg,normal
+525_left.jpg,myopia
+527_left.jpg,other disease
+528_left.jpg,normal
+529_left.jpg,normal
+530_left.jpg,normal
+531_left.jpg,other disease
+532_left.jpg,AMD
+534_left.jpg,other disease
+535_left.jpg,diabetes
+536_left.jpg,normal
+538_left.jpg,diabetes
+539_left.jpg,other disease
+540_left.jpg,normal
+542_left.jpg,diabetes
+544_left.jpg,normal
+545_left.jpg,other disease
+546_left.jpg,other disease
+547_left.jpg,AMD
+548_left.jpg,other disease
+549_left.jpg,diabetes
+550_left.jpg,diabetes
+552_left.jpg,other disease
+553_left.jpg,cataract
+554_left.jpg,normal
+555_left.jpg,other disease
+556_left.jpg,diabetes
+557_left.jpg,other disease
+559_left.jpg,normal
+560_left.jpg,cataract
+561_left.jpg,hypertension
+563_left.jpg,diabetes
+564_left.jpg,AMD
+565_left.jpg,AMD
+566_left.jpg,other disease
+567_left.jpg,diabetes
+568_left.jpg,diabetes
+570_left.jpg,normal
+571_left.jpg,hypertension
+572_left.jpg,AMD
+573_left.jpg,normal
+575_left.jpg,normal
+577_left.jpg,normal
+578_left.jpg,diabetes
+579_left.jpg,other disease
+580_left.jpg,normal
+581_left.jpg,other disease
+584_left.jpg,other disease
+585_left.jpg,other disease
+586_left.jpg,other disease
+587_left.jpg,other disease
+588_left.jpg,normal
+589_left.jpg,normal
+590_left.jpg,other disease
+591_left.jpg,normal
+592_left.jpg,diabetes
+593_left.jpg,normal
+595_left.jpg,diabetes
+597_left.jpg,diabetes
+598_left.jpg,diabetes
+599_left.jpg,normal
+600_left.jpg,diabetes
+602_left.jpg,other disease
+603_left.jpg,AMD
+604_left.jpg,diabetes
+605_left.jpg,diabetes
+606_left.jpg,normal
+607_left.jpg,diabetes
+608_left.jpg,AMD
+609_left.jpg,diabetes
+610_left.jpg,normal
+611_left.jpg,cataract
+612_left.jpg,diabetes
+613_left.jpg,other disease
+614_left.jpg,AMD
+615_left.jpg,AMD
+616_left.jpg,diabetes
+617_left.jpg,normal
+618_left.jpg,other disease
+619_left.jpg,diabetes
+620_left.jpg,normal
+621_left.jpg,diabetes
+623_left.jpg,other disease
+624_left.jpg,other disease
+626_left.jpg,other disease
+627_left.jpg,diabetes
+628_left.jpg,other disease
+629_left.jpg,cataract
+630_left.jpg,diabetes
+632_left.jpg,other disease
+633_left.jpg,normal
+634_left.jpg,diabetes
+635_left.jpg,diabetes
+636_left.jpg,other disease
+637_left.jpg,normal
+638_left.jpg,AMD
+639_left.jpg,diabetes
+640_left.jpg,other disease
+641_left.jpg,normal
+643_left.jpg,normal
+644_left.jpg,other disease
+645_left.jpg,other disease
+646_left.jpg,other disease
+647_left.jpg,diabetes
+649_left.jpg,normal
+650_left.jpg,normal
+652_left.jpg,other disease
+653_left.jpg,diabetes
+654_left.jpg,diabetes
+655_left.jpg,other disease
+656_left.jpg,other disease
+657_left.jpg,other disease
+658_left.jpg,normal
+659_left.jpg,other disease
+660_left.jpg,diabetes
+661_left.jpg,other disease
+662_left.jpg,normal
+664_left.jpg,diabetes
+666_left.jpg,other disease
+667_left.jpg,diabetes
+668_left.jpg,other disease
+669_left.jpg,diabetes
+670_left.jpg,other disease
+671_left.jpg,normal
+672_left.jpg,other disease
+673_left.jpg,other disease
+674_left.jpg,other disease
+675_left.jpg,hypertension
+676_left.jpg,other disease
+678_left.jpg,diabetes
+679_left.jpg,other disease
+680_left.jpg,other disease
+681_left.jpg,AMD
+682_left.jpg,diabetes
+683_left.jpg,normal
+684_left.jpg,diabetes
+685_left.jpg,other disease
+686_left.jpg,hypertension
+687_left.jpg,diabetes
+689_left.jpg,other disease
+690_left.jpg,diabetes
+691_left.jpg,cataract
+692_left.jpg,diabetes
+693_left.jpg,other disease
+694_left.jpg,other disease
+695_left.jpg,normal
+696_left.jpg,other disease
+698_left.jpg,diabetes
+699_left.jpg,other disease
+700_left.jpg,diabetes
+701_left.jpg,normal
+702_left.jpg,normal
+703_left.jpg,diabetes
+704_left.jpg,other disease
+705_left.jpg,other disease
+706_left.jpg,other disease
+707_left.jpg,diabetes
+708_left.jpg,other disease
+710_left.jpg,normal
+711_left.jpg,other disease
+712_left.jpg,AMD
+713_left.jpg,diabetes
+714_left.jpg,diabetes
+715_left.jpg,other disease
+716_left.jpg,normal
+718_left.jpg,diabetes
+719_left.jpg,AMD
+721_left.jpg,other disease
+722_left.jpg,diabetes
+723_left.jpg,hypertension
+724_left.jpg,normal
+725_left.jpg,other disease
+726_left.jpg,cataract
+727_left.jpg,other disease
+730_left.jpg,other disease
+732_left.jpg,normal
+733_left.jpg,diabetes
+734_left.jpg,normal
+735_left.jpg,diabetes
+736_left.jpg,normal
+737_left.jpg,normal
+739_left.jpg,other disease
+740_left.jpg,normal
+741_left.jpg,myopia
+743_left.jpg,diabetes
+744_left.jpg,diabetes
+745_left.jpg,diabetes
+748_left.jpg,diabetes
+749_left.jpg,other disease
+750_left.jpg,cataract
+752_left.jpg,diabetes
+753_left.jpg,other disease
+756_left.jpg,normal
+757_left.jpg,diabetes
+758_left.jpg,normal
+759_left.jpg,hypertension
+760_left.jpg,myopia
+761_left.jpg,AMD
+762_left.jpg,diabetes
+763_left.jpg,diabetes
+764_left.jpg,other disease
+766_left.jpg,normal
+767_left.jpg,other disease
+768_left.jpg,other disease
+769_left.jpg,diabetes
+770_left.jpg,normal
+771_left.jpg,myopia
+772_left.jpg,other disease
+773_left.jpg,other disease
+774_left.jpg,other disease
+775_left.jpg,diabetes
+776_left.jpg,other disease
+777_left.jpg,hypertension
+778_left.jpg,diabetes
+779_left.jpg,diabetes
+780_left.jpg,other disease
+781_left.jpg,normal
+782_left.jpg,other disease
+784_left.jpg,diabetes
+785_left.jpg,normal
+787_left.jpg,diabetes
+788_left.jpg,AMD
+789_left.jpg,normal
+790_left.jpg,hypertension
+791_left.jpg,diabetes
+793_left.jpg,diabetes
+794_left.jpg,diabetes
+795_left.jpg,diabetes
+796_left.jpg,diabetes
+797_left.jpg,other disease
+798_left.jpg,other disease
+799_left.jpg,diabetes
+800_left.jpg,normal
+801_left.jpg,diabetes
+803_left.jpg,normal
+804_left.jpg,normal
+806_left.jpg,diabetes
+808_left.jpg,diabetes
+809_left.jpg,cataract
+810_left.jpg,normal
+812_left.jpg,diabetes
+815_left.jpg,AMD
+816_left.jpg,hypertension
+817_left.jpg,diabetes
+818_left.jpg,diabetes
+819_left.jpg,diabetes
+820_left.jpg,cataract
+821_left.jpg,AMD
+822_left.jpg,normal
+823_left.jpg,other disease
+824_left.jpg,cataract
+825_left.jpg,diabetes
+826_left.jpg,hypertension
+827_left.jpg,normal
+828_left.jpg,normal
+829_left.jpg,other disease
+830_left.jpg,other disease
+831_left.jpg,myopia
+832_left.jpg,normal
+833_left.jpg,other disease
+834_left.jpg,normal
+835_left.jpg,normal
+836_left.jpg,diabetes
+837_left.jpg,other disease
+838_left.jpg,other disease
+839_left.jpg,diabetes
+841_left.jpg,other disease
+842_left.jpg,diabetes
+844_left.jpg,normal
+845_left.jpg,other disease
+846_left.jpg,other disease
+848_left.jpg,other disease
+849_left.jpg,hypertension
+851_left.jpg,other disease
+852_left.jpg,AMD
+854_left.jpg,normal
+855_left.jpg,AMD
+856_left.jpg,other disease
+858_left.jpg,other disease
+859_left.jpg,normal
+860_left.jpg,diabetes
+861_left.jpg,hypertension
+862_left.jpg,other disease
+866_left.jpg,normal
+867_left.jpg,other disease
+868_left.jpg,other disease
+869_left.jpg,normal
+870_left.jpg,AMD
+871_left.jpg,diabetes
+872_left.jpg,other disease
+873_left.jpg,other disease
+874_left.jpg,diabetes
+875_left.jpg,normal
+876_left.jpg,other disease
+877_left.jpg,normal
+878_left.jpg,other disease
+879_left.jpg,other disease
+880_left.jpg,other disease
+881_left.jpg,diabetes
+882_left.jpg,normal
+883_left.jpg,other disease
+884_left.jpg,other disease
+885_left.jpg,normal
+886_left.jpg,other disease
+888_left.jpg,AMD
+889_left.jpg,AMD
+890_left.jpg,diabetes
+891_left.jpg,other disease
+892_left.jpg,normal
+893_left.jpg,other disease
+894_left.jpg,normal
+895_left.jpg,other disease
+896_left.jpg,normal
+899_left.jpg,other disease
+900_left.jpg,normal
+901_left.jpg,normal
+902_left.jpg,other disease
+903_left.jpg,normal
+905_left.jpg,diabetes
+906_left.jpg,other disease
+907_left.jpg,cataract
+908_left.jpg,normal
+909_left.jpg,other disease
+910_left.jpg,AMD
+912_left.jpg,other disease
+914_left.jpg,diabetes
+915_left.jpg,normal
+917_left.jpg,normal
+918_left.jpg,other disease
+919_left.jpg,other disease
+920_left.jpg,diabetes
+921_left.jpg,other disease
+922_left.jpg,other disease
+924_left.jpg,normal
+925_left.jpg,normal
+926_left.jpg,diabetes
+927_left.jpg,AMD
+928_left.jpg,other disease
+929_left.jpg,diabetes
+930_left.jpg,other disease
+932_left.jpg,normal
+933_left.jpg,normal
+934_left.jpg,diabetes
+935_left.jpg,other disease
+936_left.jpg,diabetes
+939_left.jpg,normal
+940_left.jpg,other disease
+941_left.jpg,other disease
+942_left.jpg,other disease
+943_left.jpg,other disease
+944_left.jpg,diabetes
+945_left.jpg,normal
+946_left.jpg,normal
+948_left.jpg,diabetes
+949_left.jpg,diabetes
+950_left.jpg,normal
+951_left.jpg,normal
+952_left.jpg,diabetes
+953_left.jpg,diabetes
+954_left.jpg,other disease
+955_left.jpg,normal
+956_left.jpg,diabetes
+957_left.jpg,hypertension
+958_left.jpg,other disease
+961_left.jpg,AMD
+963_left.jpg,other disease
+964_left.jpg,diabetes
+965_left.jpg,other disease
+968_left.jpg,hypertension
+969_left.jpg,other disease
+970_left.jpg,diabetes
+971_left.jpg,AMD
+972_left.jpg,diabetes
+973_left.jpg,other disease
+974_left.jpg,other disease
+975_left.jpg,normal
+976_left.jpg,diabetes
+977_left.jpg,AMD
+979_left.jpg,normal
+980_left.jpg,diabetes
+981_left.jpg,diabetes
+982_left.jpg,normal
+983_left.jpg,hypertension
+984_left.jpg,normal
+986_left.jpg,other disease
+987_left.jpg,other disease
+989_left.jpg,normal
+990_left.jpg,normal
+991_left.jpg,diabetes
+992_left.jpg,AMD
+993_left.jpg,diabetes
+994_left.jpg,normal
+996_left.jpg,other disease
+999_left.jpg,cataract
+1005_left.jpg,other disease
+1006_left.jpg,normal
+1008_left.jpg,normal
+1010_left.jpg,normal
+1011_left.jpg,normal
+1012_left.jpg,other disease
+1013_left.jpg,normal
+1015_left.jpg,other disease
+1016_left.jpg,normal
+1017_left.jpg,normal
+1019_left.jpg,other disease
+1021_left.jpg,normal
+1022_left.jpg,diabetes
+1023_left.jpg,normal
+1024_left.jpg,hypertension
+1028_left.jpg,other disease
+1031_left.jpg,other disease
+1032_left.jpg,normal
+1033_left.jpg,normal
+1034_left.jpg,normal
+1035_left.jpg,normal
+1036_left.jpg,normal
+1038_left.jpg,normal
+1039_left.jpg,other disease
+1040_left.jpg,other disease
+1041_left.jpg,normal
+1043_left.jpg,AMD
+1045_left.jpg,hypertension
+1046_left.jpg,hypertension
+1048_left.jpg,hypertension
+1050_left.jpg,other disease
+1052_left.jpg,other disease
+1053_left.jpg,normal
+1054_left.jpg,normal
+1056_left.jpg,hypertension
+1058_left.jpg,normal
+1060_left.jpg,normal
+1062_left.jpg,normal
+1064_left.jpg,AMD
+1065_left.jpg,AMD
+1068_left.jpg,diabetes
+1071_left.jpg,diabetes
+1072_left.jpg,normal
+1074_left.jpg,other disease
+1075_left.jpg,AMD
+1077_left.jpg,normal
+1079_left.jpg,other disease
+1080_left.jpg,other disease
+1081_left.jpg,hypertension
+1082_left.jpg,diabetes
+1083_left.jpg,diabetes
+1084_left.jpg,diabetes
+1085_left.jpg,AMD
+1086_left.jpg,normal
+1087_left.jpg,other disease
+1089_left.jpg,normal
+1090_left.jpg,other disease
+1091_left.jpg,AMD
+1092_left.jpg,normal
+1093_left.jpg,other disease
+1094_left.jpg,diabetes
+1095_left.jpg,other disease
+1096_left.jpg,normal
+1097_left.jpg,normal
+1098_left.jpg,AMD
+1099_left.jpg,other disease
+1101_left.jpg,normal
+1102_left.jpg,cataract
+1103_left.jpg,myopia
+1104_left.jpg,AMD
+1106_left.jpg,diabetes
+1109_left.jpg,normal
+1111_left.jpg,AMD
+1113_left.jpg,normal
+1114_left.jpg,other disease
+1115_left.jpg,cataract
+1117_left.jpg,normal
+1118_left.jpg,normal
+1120_left.jpg,normal
+1121_left.jpg,other disease
+1122_left.jpg,other disease
+1123_left.jpg,normal
+1124_left.jpg,other disease
+1125_left.jpg,AMD
+1126_left.jpg,normal
+1127_left.jpg,other disease
+1129_left.jpg,other disease
+1130_left.jpg,other disease
+1131_left.jpg,other disease
+1132_left.jpg,normal
+1133_left.jpg,other disease
+1134_left.jpg,other disease
+1136_left.jpg,diabetes
+1137_left.jpg,normal
+1138_left.jpg,diabetes
+1140_left.jpg,normal
+1142_left.jpg,other disease
+1143_left.jpg,other disease
+1144_left.jpg,cataract
+1146_left.jpg,other disease
+1147_left.jpg,diabetes
+1148_left.jpg,other disease
+1150_left.jpg,myopia
+1151_left.jpg,normal
+1152_left.jpg,diabetes
+1154_left.jpg,AMD
+1156_left.jpg,other disease
+1157_left.jpg,diabetes
+1160_left.jpg,normal
+1162_left.jpg,normal
+1163_left.jpg,other disease
+1164_left.jpg,cataract
+1165_left.jpg,normal
+1166_left.jpg,normal
+1167_left.jpg,diabetes
+1168_left.jpg,normal
+1170_left.jpg,other disease
+1171_left.jpg,other disease
+1172_left.jpg,other disease
+1173_left.jpg,other disease
+1174_left.jpg,other disease
+1176_left.jpg,normal
+1177_left.jpg,other disease
+1186_left.jpg,other disease
+1191_left.jpg,diabetes
+1195_left.jpg,other disease
+1196_left.jpg,AMD
+1197_left.jpg,AMD
+1198_left.jpg,other disease
+1200_left.jpg,normal
+1205_left.jpg,diabetes
+1206_left.jpg,diabetes
+1207_left.jpg,other disease
+1219_left.jpg,myopia
+1238_left.jpg,diabetes
+1240_left.jpg,normal
+1242_left.jpg,other disease
+1245_left.jpg,normal
+1253_left.jpg,normal
+1262_left.jpg,normal
+1274_left.jpg,normal
+1280_left.jpg,glaucoma
+1285_left.jpg,cataract
+1295_left.jpg,AMD
+1296_left.jpg,normal
+1304_left.jpg,other disease
+1308_left.jpg,other disease
+1310_left.jpg,normal
+1311_left.jpg,normal
+1314_left.jpg,glaucoma
+1349_left.jpg,myopia
+1364_left.jpg,normal
+1373_left.jpg,hypertension
+1377_left.jpg,hypertension
+1388_left.jpg,diabetes
+1393_left.jpg,normal
+1396_left.jpg,glaucoma
+1401_left.jpg,normal
+1404_left.jpg,glaucoma
+1408_left.jpg,other disease
+1409_left.jpg,diabetes
+1413_left.jpg,diabetes
+1414_left.jpg,glaucoma
+1415_left.jpg,cataract
+1416_left.jpg,normal
+1417_left.jpg,normal
+1418_left.jpg,glaucoma
+1420_left.jpg,other disease
+1421_left.jpg,glaucoma
+1423_left.jpg,glaucoma
+1424_left.jpg,glaucoma
+1425_left.jpg,normal
+1427_left.jpg,normal
+1429_left.jpg,glaucoma
+1431_left.jpg,glaucoma
+1435_left.jpg,cataract
+1444_left.jpg,cataract
+1452_left.jpg,cataract
+1453_left.jpg,normal
+1454_left.jpg,other disease
+1458_left.jpg,glaucoma
+1460_left.jpg,normal
+1463_left.jpg,other disease
+1465_left.jpg,normal
+1468_left.jpg,cataract
+1476_left.jpg,normal
+1480_left.jpg,other disease
+1483_left.jpg,cataract
+1484_left.jpg,cataract
+1485_left.jpg,normal
+1490_left.jpg,normal
+1496_left.jpg,diabetes
+1503_left.jpg,normal
+1507_left.jpg,normal
+1510_left.jpg,normal
+1513_left.jpg,normal
+1516_left.jpg,other disease
+1519_left.jpg,normal
+1523_left.jpg,myopia
+1526_left.jpg,myopia
+1527_left.jpg,myopia
+1528_left.jpg,myopia
+1529_left.jpg,myopia
+1530_left.jpg,myopia
+1531_left.jpg,myopia
+1532_left.jpg,myopia
+1533_left.jpg,myopia
+1534_left.jpg,myopia
+1535_left.jpg,myopia
+1536_left.jpg,myopia
+1537_left.jpg,myopia
+1538_left.jpg,myopia
+1539_left.jpg,myopia
+1541_left.jpg,myopia
+1544_left.jpg,myopia
+1545_left.jpg,myopia
+1546_left.jpg,myopia
+1547_left.jpg,myopia
+1548_left.jpg,myopia
+1549_left.jpg,myopia
+1550_left.jpg,myopia
+1551_left.jpg,myopia
+1552_left.jpg,myopia
+1553_left.jpg,myopia
+1554_left.jpg,myopia
+1555_left.jpg,myopia
+1556_left.jpg,myopia
+1557_left.jpg,myopia
+1558_left.jpg,myopia
+1559_left.jpg,myopia
+1560_left.jpg,other disease
+1561_left.jpg,myopia
+1562_left.jpg,myopia
+1563_left.jpg,myopia
+1564_left.jpg,myopia
+1565_left.jpg,myopia
+1566_left.jpg,myopia
+1568_left.jpg,myopia
+1569_left.jpg,normal
+1570_left.jpg,myopia
+1571_left.jpg,myopia
+1572_left.jpg,myopia
+1576_left.jpg,myopia
+1578_left.jpg,myopia
+1579_left.jpg,myopia
+1580_left.jpg,myopia
+1581_left.jpg,other disease
+1583_left.jpg,myopia
+1584_left.jpg,myopia
+1586_left.jpg,myopia
+1588_left.jpg,myopia
+1589_left.jpg,myopia
+1590_left.jpg,normal
+1591_left.jpg,myopia
+1593_left.jpg,myopia
+1594_left.jpg,myopia
+1598_left.jpg,myopia
+1599_left.jpg,myopia
+1600_left.jpg,myopia
+1601_left.jpg,myopia
+1602_left.jpg,myopia
+1603_left.jpg,myopia
+1605_left.jpg,myopia
+1606_left.jpg,myopia
+1607_left.jpg,myopia
+1609_left.jpg,myopia
+1610_left.jpg,myopia
+1611_left.jpg,myopia
+1612_left.jpg,myopia
+1613_left.jpg,myopia
+1615_left.jpg,myopia
+1616_left.jpg,myopia
+1617_left.jpg,myopia
+1618_left.jpg,myopia
+1619_left.jpg,normal
+1620_left.jpg,normal
+1621_left.jpg,myopia
+1623_left.jpg,myopia
+1624_left.jpg,myopia
+1626_left.jpg,myopia
+1628_left.jpg,myopia
+1629_left.jpg,myopia
+1630_left.jpg,myopia
+1638_left.jpg,myopia
+1640_left.jpg,myopia
+1643_left.jpg,myopia
+1644_left.jpg,other disease
+1647_left.jpg,myopia
+1652_left.jpg,other disease
+1659_left.jpg,other disease
+1662_left.jpg,myopia
+1663_left.jpg,myopia
+1664_left.jpg,other disease
+1666_left.jpg,normal
+1673_left.jpg,other disease
+1677_left.jpg,other disease
+1681_left.jpg,other disease
+1686_left.jpg,myopia
+1694_left.jpg,other disease
+1710_left.jpg,myopia
+1716_left.jpg,myopia
+1718_left.jpg,diabetes
+1731_left.jpg,myopia
+1799_left.jpg,other disease
+1801_left.jpg,other disease
+1817_left.jpg,AMD
+1819_left.jpg,AMD
+1820_left.jpg,AMD
+1829_left.jpg,AMD
+1830_left.jpg,AMD
+1831_left.jpg,AMD
+1833_left.jpg,hypertension
+1834_left.jpg,AMD
+1835_left.jpg,AMD
+1836_left.jpg,AMD
+1837_left.jpg,normal
+1840_left.jpg,AMD
+1841_left.jpg,AMD
+1843_left.jpg,AMD
+1844_left.jpg,AMD
+1845_left.jpg,AMD
+1846_left.jpg,AMD
+1847_left.jpg,AMD
+1850_left.jpg,AMD
+1853_left.jpg,hypertension
+1854_left.jpg,AMD
+1856_left.jpg,AMD
+1857_left.jpg,AMD
+1859_left.jpg,AMD
+1862_left.jpg,AMD
+1867_left.jpg,hypertension
+1868_left.jpg,normal
+1869_left.jpg,AMD
+1872_left.jpg,AMD
+1873_left.jpg,normal
+1874_left.jpg,AMD
+1876_left.jpg,normal
+1877_left.jpg,AMD
+1878_left.jpg,AMD
+1879_left.jpg,AMD
+1880_left.jpg,AMD
+1881_left.jpg,glaucoma
+1884_left.jpg,other disease
+1885_left.jpg,AMD
+1886_left.jpg,AMD
+1889_left.jpg,AMD
+1890_left.jpg,AMD
+1891_left.jpg,other disease
+1892_left.jpg,AMD
+1893_left.jpg,AMD
+1919_left.jpg,other disease
+1942_left.jpg,diabetes
+1963_left.jpg,diabetes
+1971_left.jpg,glaucoma
+1974_left.jpg,diabetes
+1978_left.jpg,diabetes
+1987_left.jpg,cataract
+1989_left.jpg,hypertension
+1990_left.jpg,normal
+1994_left.jpg,diabetes
+1999_left.jpg,other disease
+2004_left.jpg,hypertension
+2032_left.jpg,diabetes
+2034_left.jpg,AMD
+2048_left.jpg,hypertension
+2053_left.jpg,AMD
+2065_left.jpg,AMD
+2066_left.jpg,hypertension
+2070_left.jpg,hypertension
+2095_left.jpg,normal
+2096_left.jpg,diabetes
+2097_left.jpg,normal
+2098_left.jpg,cataract
+2099_left.jpg,cataract
+2101_left.jpg,cataract
+2104_left.jpg,cataract
+2105_left.jpg,cataract
+2106_left.jpg,normal
+2107_left.jpg,cataract
+2108_left.jpg,cataract
+2109_left.jpg,cataract
+2110_left.jpg,cataract
+2111_left.jpg,cataract
+2112_left.jpg,normal
+2113_left.jpg,cataract
+2114_left.jpg,cataract
+2115_left.jpg,diabetes
+2116_left.jpg,cataract
+2117_left.jpg,cataract
+2118_left.jpg,other disease
+2119_left.jpg,normal
+2120_left.jpg,cataract
+2121_left.jpg,cataract
+2122_left.jpg,cataract
+2123_left.jpg,cataract
+2124_left.jpg,cataract
+2125_left.jpg,cataract
+2126_left.jpg,cataract
+2127_left.jpg,cataract
+2128_left.jpg,cataract
+2129_left.jpg,cataract
+2130_left.jpg,cataract
+2132_left.jpg,cataract
+2133_left.jpg,cataract
+2134_left.jpg,cataract
+2135_left.jpg,cataract
+2136_left.jpg,cataract
+2137_left.jpg,cataract
+2138_left.jpg,cataract
+2139_left.jpg,normal
+2140_left.jpg,cataract
+2141_left.jpg,diabetes
+2142_left.jpg,cataract
+2143_left.jpg,normal
+2144_left.jpg,cataract
+2145_left.jpg,cataract
+2146_left.jpg,cataract
+2147_left.jpg,cataract
+2149_left.jpg,normal
+2150_left.jpg,cataract
+2151_left.jpg,cataract
+2152_left.jpg,cataract
+2153_left.jpg,cataract
+2154_left.jpg,cataract
+2155_left.jpg,cataract
+2156_left.jpg,cataract
+2157_left.jpg,cataract
+2158_left.jpg,cataract
+2159_left.jpg,cataract
+2160_left.jpg,normal
+2161_left.jpg,diabetes
+2162_left.jpg,normal
+2163_left.jpg,cataract
+2165_left.jpg,diabetes
+2166_left.jpg,cataract
+2167_left.jpg,cataract
+2168_left.jpg,cataract
+2169_left.jpg,cataract
+2170_left.jpg,cataract
+2171_left.jpg,cataract
+2172_left.jpg,cataract
+2173_left.jpg,other disease
+2174_left.jpg,normal
+2175_left.jpg,cataract
+2176_left.jpg,cataract
+2177_left.jpg,normal
+2178_left.jpg,cataract
+2179_left.jpg,cataract
+2180_left.jpg,cataract
+2181_left.jpg,cataract
+2182_left.jpg,cataract
+2183_left.jpg,cataract
+2184_left.jpg,cataract
+2185_left.jpg,cataract
+2187_left.jpg,normal
+2189_left.jpg,cataract
+2190_left.jpg,normal
+2191_left.jpg,normal
+2192_left.jpg,cataract
+2193_left.jpg,normal
+2194_left.jpg,cataract
+2195_left.jpg,cataract
+2196_left.jpg,normal
+2197_left.jpg,normal
+2198_left.jpg,cataract
+2199_left.jpg,cataract
+2200_left.jpg,cataract
+2201_left.jpg,diabetes
+2203_left.jpg,cataract
+2204_left.jpg,cataract
+2205_left.jpg,normal
+2206_left.jpg,cataract
+2207_left.jpg,cataract
+2208_left.jpg,normal
+2209_left.jpg,cataract
+2210_left.jpg,cataract
+2211_left.jpg,cataract
+2212_left.jpg,cataract
+2215_left.jpg,cataract
+2216_left.jpg,cataract
+2217_left.jpg,cataract
+2218_left.jpg,normal
+2219_left.jpg,cataract
+2221_left.jpg,cataract
+2223_left.jpg,cataract
+2225_left.jpg,cataract
+2226_left.jpg,cataract
+2227_left.jpg,cataract
+2228_left.jpg,diabetes
+2232_left.jpg,cataract
+2233_left.jpg,cataract
+2234_left.jpg,cataract
+2235_left.jpg,cataract
+2236_left.jpg,cataract
+2237_left.jpg,normal
+2239_left.jpg,cataract
+2240_left.jpg,cataract
+2242_left.jpg,cataract
+2243_left.jpg,cataract
+2246_left.jpg,cataract
+2247_left.jpg,cataract
+2262_left.jpg,cataract
+2329_left.jpg,normal
+2330_left.jpg,normal
+2331_left.jpg,normal
+2332_left.jpg,normal
+2333_left.jpg,normal
+2334_left.jpg,normal
+2335_left.jpg,normal
+2336_left.jpg,normal
+2337_left.jpg,normal
+2338_left.jpg,normal
+2339_left.jpg,normal
+2340_left.jpg,normal
+2341_left.jpg,normal
+2342_left.jpg,normal
+2343_left.jpg,normal
+2344_left.jpg,normal
+2345_left.jpg,normal
+2346_left.jpg,normal
+2347_left.jpg,normal
+2348_left.jpg,normal
+2349_left.jpg,normal
+2350_left.jpg,normal
+2351_left.jpg,normal
+2352_left.jpg,normal
+2353_left.jpg,normal
+2354_left.jpg,normal
+2355_left.jpg,normal
+2356_left.jpg,normal
+2357_left.jpg,normal
+2358_left.jpg,normal
+2359_left.jpg,normal
+2360_left.jpg,normal
+2361_left.jpg,normal
+2362_left.jpg,normal
+2363_left.jpg,normal
+2364_left.jpg,normal
+2365_left.jpg,normal
+2366_left.jpg,normal
+2367_left.jpg,normal
+2368_left.jpg,normal
+2369_left.jpg,normal
+2370_left.jpg,normal
+2371_left.jpg,normal
+2372_left.jpg,normal
+2373_left.jpg,normal
+2374_left.jpg,normal
+2375_left.jpg,normal
+2376_left.jpg,normal
+2377_left.jpg,normal
+2378_left.jpg,normal
+2379_left.jpg,normal
+2380_left.jpg,normal
+2381_left.jpg,normal
+2382_left.jpg,normal
+2383_left.jpg,normal
+2384_left.jpg,normal
+2385_left.jpg,normal
+2386_left.jpg,normal
+2387_left.jpg,normal
+2388_left.jpg,normal
+2389_left.jpg,normal
+2390_left.jpg,normal
+2391_left.jpg,normal
+2392_left.jpg,normal
+2393_left.jpg,normal
+2394_left.jpg,normal
+2395_left.jpg,normal
+2396_left.jpg,normal
+2397_left.jpg,normal
+2398_left.jpg,normal
+2399_left.jpg,normal
+2400_left.jpg,normal
+2401_left.jpg,normal
+2402_left.jpg,normal
+2403_left.jpg,normal
+2404_left.jpg,normal
+2405_left.jpg,normal
+2406_left.jpg,normal
+2407_left.jpg,normal
+2408_left.jpg,normal
+2409_left.jpg,normal
+2410_left.jpg,normal
+2411_left.jpg,normal
+2412_left.jpg,normal
+2413_left.jpg,normal
+2414_left.jpg,normal
+2415_left.jpg,normal
+2416_left.jpg,normal
+2417_left.jpg,normal
+2418_left.jpg,normal
+2419_left.jpg,normal
+2420_left.jpg,normal
+2421_left.jpg,normal
+2422_left.jpg,normal
+2423_left.jpg,normal
+2424_left.jpg,normal
+2425_left.jpg,normal
+2426_left.jpg,normal
+2427_left.jpg,normal
+2428_left.jpg,normal
+2429_left.jpg,normal
+2430_left.jpg,normal
+2431_left.jpg,normal
+2432_left.jpg,normal
+2433_left.jpg,normal
+2434_left.jpg,normal
+2435_left.jpg,normal
+2436_left.jpg,normal
+2437_left.jpg,normal
+2438_left.jpg,normal
+2439_left.jpg,normal
+2440_left.jpg,normal
+2441_left.jpg,normal
+2442_left.jpg,normal
+2443_left.jpg,normal
+2444_left.jpg,normal
+2445_left.jpg,normal
+2446_left.jpg,normal
+2447_left.jpg,normal
+2448_left.jpg,normal
+2449_left.jpg,normal
+2450_left.jpg,normal
+2451_left.jpg,normal
+2452_left.jpg,normal
+2453_left.jpg,normal
+2454_left.jpg,normal
+2455_left.jpg,normal
+2456_left.jpg,normal
+2457_left.jpg,normal
+2458_left.jpg,normal
+2459_left.jpg,normal
+2460_left.jpg,normal
+2461_left.jpg,normal
+2462_left.jpg,normal
+2463_left.jpg,normal
+2464_left.jpg,normal
+2465_left.jpg,normal
+2466_left.jpg,normal
+2467_left.jpg,normal
+2468_left.jpg,normal
+2469_left.jpg,normal
+2470_left.jpg,normal
+2471_left.jpg,normal
+2472_left.jpg,normal
+2473_left.jpg,normal
+2474_left.jpg,normal
+2475_left.jpg,normal
+2476_left.jpg,normal
+2478_left.jpg,normal
+2479_left.jpg,normal
+2480_left.jpg,normal
+2481_left.jpg,normal
+2482_left.jpg,normal
+2483_left.jpg,normal
+2484_left.jpg,normal
+2485_left.jpg,normal
+2486_left.jpg,normal
+2487_left.jpg,normal
+2488_left.jpg,normal
+2489_left.jpg,normal
+2490_left.jpg,normal
+2491_left.jpg,normal
+2492_left.jpg,normal
+2493_left.jpg,normal
+2494_left.jpg,normal
+2495_left.jpg,normal
+2496_left.jpg,normal
+2497_left.jpg,normal
+2498_left.jpg,normal
+2499_left.jpg,normal
+2500_left.jpg,normal
+2501_left.jpg,normal
+2502_left.jpg,normal
+2503_left.jpg,normal
+2504_left.jpg,normal
+2505_left.jpg,normal
+2506_left.jpg,normal
+2507_left.jpg,normal
+2508_left.jpg,normal
+2509_left.jpg,normal
+2510_left.jpg,normal
+2511_left.jpg,normal
+2512_left.jpg,normal
+2513_left.jpg,normal
+2514_left.jpg,normal
+2515_left.jpg,normal
+2516_left.jpg,normal
+2517_left.jpg,normal
+2518_left.jpg,normal
+2519_left.jpg,normal
+2520_left.jpg,normal
+2521_left.jpg,normal
+2522_left.jpg,normal
+2523_left.jpg,normal
+2524_left.jpg,normal
+2525_left.jpg,normal
+2526_left.jpg,normal
+2527_left.jpg,normal
+2528_left.jpg,normal
+2529_left.jpg,normal
+2530_left.jpg,normal
+2531_left.jpg,normal
+2532_left.jpg,normal
+2533_left.jpg,normal
+2534_left.jpg,normal
+2535_left.jpg,normal
+2536_left.jpg,normal
+2537_left.jpg,normal
+2538_left.jpg,normal
+2539_left.jpg,normal
+2540_left.jpg,normal
+2541_left.jpg,normal
+2542_left.jpg,normal
+2543_left.jpg,normal
+2544_left.jpg,normal
+2545_left.jpg,normal
+2546_left.jpg,normal
+2547_left.jpg,normal
+2548_left.jpg,normal
+2549_left.jpg,normal
+2550_left.jpg,normal
+2551_left.jpg,normal
+2552_left.jpg,normal
+2553_left.jpg,normal
+2554_left.jpg,normal
+2555_left.jpg,normal
+2556_left.jpg,normal
+2557_left.jpg,normal
+2558_left.jpg,normal
+2559_left.jpg,normal
+2560_left.jpg,normal
+2561_left.jpg,normal
+2562_left.jpg,normal
+2563_left.jpg,normal
+2564_left.jpg,normal
+2565_left.jpg,normal
+2566_left.jpg,normal
+2567_left.jpg,normal
+2568_left.jpg,normal
+2569_left.jpg,normal
+2570_left.jpg,normal
+2571_left.jpg,normal
+2572_left.jpg,normal
+2573_left.jpg,normal
+2574_left.jpg,normal
+2575_left.jpg,normal
+2576_left.jpg,normal
+2577_left.jpg,normal
+2578_left.jpg,normal
+2579_left.jpg,normal
+2580_left.jpg,normal
+2581_left.jpg,normal
+2582_left.jpg,normal
+2583_left.jpg,normal
+2584_left.jpg,normal
+2585_left.jpg,normal
+2586_left.jpg,normal
+2587_left.jpg,normal
+2588_left.jpg,normal
+2589_left.jpg,normal
+2590_left.jpg,normal
+2591_left.jpg,normal
+2592_left.jpg,normal
+2593_left.jpg,normal
+2594_left.jpg,normal
+2595_left.jpg,normal
+2596_left.jpg,normal
+2597_left.jpg,normal
+2598_left.jpg,normal
+2599_left.jpg,normal
+2600_left.jpg,normal
+2601_left.jpg,normal
+2602_left.jpg,normal
+2603_left.jpg,normal
+2604_left.jpg,normal
+2605_left.jpg,normal
+2606_left.jpg,normal
+2607_left.jpg,normal
+2608_left.jpg,normal
+2609_left.jpg,normal
+2610_left.jpg,normal
+2611_left.jpg,normal
+2612_left.jpg,normal
+2613_left.jpg,normal
+2614_left.jpg,normal
+2615_left.jpg,normal
+2616_left.jpg,normal
+2617_left.jpg,normal
+2618_left.jpg,normal
+2619_left.jpg,normal
+2620_left.jpg,normal
+2621_left.jpg,normal
+2622_left.jpg,normal
+2623_left.jpg,normal
+2624_left.jpg,normal
+2625_left.jpg,normal
+2626_left.jpg,normal
+2627_left.jpg,normal
+2628_left.jpg,normal
+2629_left.jpg,normal
+2630_left.jpg,normal
+2631_left.jpg,normal
+2632_left.jpg,normal
+2633_left.jpg,normal
+2634_left.jpg,normal
+2635_left.jpg,normal
+2636_left.jpg,normal
+2637_left.jpg,normal
+2638_left.jpg,normal
+2639_left.jpg,normal
+2640_left.jpg,normal
+2641_left.jpg,normal
+2642_left.jpg,normal
+2643_left.jpg,normal
+2644_left.jpg,normal
+2645_left.jpg,normal
+2646_left.jpg,normal
+2647_left.jpg,normal
+2648_left.jpg,normal
+2649_left.jpg,normal
+2650_left.jpg,normal
+2651_left.jpg,normal
+2652_left.jpg,normal
+2653_left.jpg,normal
+2654_left.jpg,normal
+2655_left.jpg,normal
+2656_left.jpg,normal
+2657_left.jpg,normal
+2658_left.jpg,normal
+2659_left.jpg,normal
+2660_left.jpg,normal
+2661_left.jpg,normal
+2662_left.jpg,normal
+2663_left.jpg,normal
+2664_left.jpg,normal
+2665_left.jpg,normal
+2666_left.jpg,normal
+2667_left.jpg,normal
+2668_left.jpg,normal
+2669_left.jpg,normal
+2670_left.jpg,normal
+2671_left.jpg,normal
+2672_left.jpg,normal
+2673_left.jpg,normal
+2674_left.jpg,normal
+2675_left.jpg,normal
+2676_left.jpg,normal
+2677_left.jpg,normal
+2678_left.jpg,normal
+2679_left.jpg,normal
+2680_left.jpg,normal
+2681_left.jpg,normal
+2682_left.jpg,normal
+2683_left.jpg,normal
+2684_left.jpg,normal
+2685_left.jpg,normal
+2686_left.jpg,normal
+2687_left.jpg,normal
+2688_left.jpg,normal
+2689_left.jpg,normal
+2690_left.jpg,normal
+2691_left.jpg,normal
+2692_left.jpg,normal
+2693_left.jpg,normal
+2694_left.jpg,normal
+2695_left.jpg,normal
+2696_left.jpg,normal
+2697_left.jpg,normal
+2698_left.jpg,normal
+2699_left.jpg,normal
+2700_left.jpg,normal
+2701_left.jpg,normal
+2702_left.jpg,normal
+2703_left.jpg,normal
+2704_left.jpg,normal
+2705_left.jpg,normal
+2706_left.jpg,normal
+2707_left.jpg,normal
+2708_left.jpg,normal
+2709_left.jpg,normal
+2710_left.jpg,normal
+2711_left.jpg,normal
+2712_left.jpg,normal
+2713_left.jpg,normal
+2714_left.jpg,normal
+2715_left.jpg,normal
+2716_left.jpg,normal
+2717_left.jpg,normal
+2718_left.jpg,normal
+2719_left.jpg,normal
+2720_left.jpg,normal
+2721_left.jpg,normal
+2722_left.jpg,normal
+2723_left.jpg,normal
+2724_left.jpg,normal
+2725_left.jpg,normal
+2726_left.jpg,normal
+2727_left.jpg,normal
+2728_left.jpg,normal
+2729_left.jpg,normal
+2730_left.jpg,normal
+2731_left.jpg,normal
+2732_left.jpg,normal
+2733_left.jpg,normal
+2734_left.jpg,normal
+2735_left.jpg,normal
+2736_left.jpg,normal
+2737_left.jpg,normal
+2738_left.jpg,normal
+2739_left.jpg,normal
+2740_left.jpg,normal
+2741_left.jpg,normal
+2742_left.jpg,normal
+2743_left.jpg,normal
+2744_left.jpg,normal
+2745_left.jpg,normal
+2746_left.jpg,normal
+2747_left.jpg,normal
+2748_left.jpg,normal
+2749_left.jpg,normal
+2750_left.jpg,normal
+2751_left.jpg,normal
+2752_left.jpg,normal
+2753_left.jpg,normal
+2754_left.jpg,normal
+2755_left.jpg,normal
+2756_left.jpg,normal
+2757_left.jpg,normal
+2758_left.jpg,normal
+2759_left.jpg,normal
+2760_left.jpg,normal
+2761_left.jpg,normal
+2762_left.jpg,normal
+2763_left.jpg,normal
+2764_left.jpg,normal
+2765_left.jpg,normal
+2766_left.jpg,normal
+2767_left.jpg,normal
+2768_left.jpg,normal
+2769_left.jpg,normal
+2770_left.jpg,normal
+2771_left.jpg,normal
+2772_left.jpg,normal
+2773_left.jpg,normal
+2774_left.jpg,normal
+2775_left.jpg,normal
+2776_left.jpg,normal
+2777_left.jpg,normal
+2778_left.jpg,normal
+2779_left.jpg,normal
+2780_left.jpg,normal
+2781_left.jpg,normal
+2782_left.jpg,normal
+2783_left.jpg,normal
+2784_left.jpg,normal
+2785_left.jpg,normal
+2786_left.jpg,normal
+2787_left.jpg,normal
+2788_left.jpg,normal
+2789_left.jpg,normal
+2790_left.jpg,normal
+2791_left.jpg,normal
+2793_left.jpg,normal
+2794_left.jpg,normal
+2795_left.jpg,normal
+2796_left.jpg,normal
+2797_left.jpg,normal
+2798_left.jpg,normal
+2799_left.jpg,normal
+2800_left.jpg,normal
+2801_left.jpg,normal
+2802_left.jpg,normal
+2803_left.jpg,normal
+2804_left.jpg,normal
+2805_left.jpg,normal
+2806_left.jpg,normal
+2807_left.jpg,normal
+2808_left.jpg,normal
+2809_left.jpg,normal
+2810_left.jpg,normal
+2811_left.jpg,normal
+2812_left.jpg,normal
+2813_left.jpg,normal
+2814_left.jpg,normal
+2815_left.jpg,normal
+2816_left.jpg,normal
+2817_left.jpg,normal
+2818_left.jpg,normal
+2819_left.jpg,normal
+2820_left.jpg,normal
+2821_left.jpg,normal
+2822_left.jpg,normal
+2823_left.jpg,normal
+2824_left.jpg,normal
+2825_left.jpg,normal
+2826_left.jpg,normal
+2827_left.jpg,normal
+2828_left.jpg,normal
+2829_left.jpg,normal
+2830_left.jpg,normal
+2831_left.jpg,normal
+2832_left.jpg,normal
+2833_left.jpg,normal
+2834_left.jpg,normal
+2835_left.jpg,normal
+2836_left.jpg,normal
+2837_left.jpg,normal
+2838_left.jpg,normal
+2839_left.jpg,normal
+2840_left.jpg,normal
+2841_left.jpg,normal
+2842_left.jpg,normal
+2843_left.jpg,normal
+2844_left.jpg,normal
+2845_left.jpg,normal
+2846_left.jpg,normal
+2847_left.jpg,normal
+2848_left.jpg,normal
+2849_left.jpg,normal
+2850_left.jpg,normal
+2851_left.jpg,normal
+2852_left.jpg,normal
+2853_left.jpg,normal
+2854_left.jpg,normal
+2855_left.jpg,normal
+2856_left.jpg,normal
+2857_left.jpg,normal
+2858_left.jpg,normal
+2859_left.jpg,normal
+2860_left.jpg,normal
+2861_left.jpg,normal
+2862_left.jpg,normal
+2863_left.jpg,normal
+2864_left.jpg,normal
+2865_left.jpg,normal
+2866_left.jpg,normal
+2867_left.jpg,normal
+2868_left.jpg,normal
+2869_left.jpg,normal
+2870_left.jpg,normal
+2871_left.jpg,normal
+2872_left.jpg,normal
+2873_left.jpg,normal
+2874_left.jpg,normal
+2875_left.jpg,normal
+2876_left.jpg,normal
+2877_left.jpg,normal
+2878_left.jpg,normal
+2879_left.jpg,normal
+2880_left.jpg,normal
+2881_left.jpg,normal
+2882_left.jpg,normal
+2883_left.jpg,normal
+2884_left.jpg,normal
+2885_left.jpg,normal
+2886_left.jpg,normal
+2887_left.jpg,normal
+2888_left.jpg,normal
+2889_left.jpg,normal
+2890_left.jpg,normal
+2891_left.jpg,normal
+2892_left.jpg,normal
+2893_left.jpg,normal
+2894_left.jpg,normal
+2895_left.jpg,normal
+2896_left.jpg,normal
+2897_left.jpg,normal
+2898_left.jpg,normal
+2899_left.jpg,normal
+2900_left.jpg,normal
+2901_left.jpg,normal
+2902_left.jpg,normal
+2903_left.jpg,normal
+2904_left.jpg,normal
+2905_left.jpg,normal
+2906_left.jpg,normal
+2907_left.jpg,normal
+2908_left.jpg,normal
+2909_left.jpg,normal
+2910_left.jpg,normal
+2911_left.jpg,normal
+2912_left.jpg,normal
+2913_left.jpg,normal
+2914_left.jpg,normal
+2915_left.jpg,normal
+2916_left.jpg,normal
+2917_left.jpg,normal
+2918_left.jpg,normal
+2919_left.jpg,normal
+2920_left.jpg,normal
+2921_left.jpg,normal
+2922_left.jpg,normal
+2923_left.jpg,normal
+2924_left.jpg,normal
+2925_left.jpg,normal
+2926_left.jpg,normal
+2927_left.jpg,normal
+2928_left.jpg,normal
+2929_left.jpg,normal
+2930_left.jpg,normal
+2931_left.jpg,normal
+2932_left.jpg,normal
+2933_left.jpg,normal
+2934_left.jpg,normal
+2935_left.jpg,normal
+2936_left.jpg,normal
+2937_left.jpg,normal
+2938_left.jpg,normal
+2939_left.jpg,normal
+2940_left.jpg,normal
+2941_left.jpg,normal
+2942_left.jpg,normal
+2943_left.jpg,normal
+2944_left.jpg,normal
+2945_left.jpg,normal
+2946_left.jpg,normal
+2947_left.jpg,normal
+2948_left.jpg,normal
+2949_left.jpg,normal
+2950_left.jpg,normal
+2951_left.jpg,normal
+2952_left.jpg,normal
+2953_left.jpg,normal
+2954_left.jpg,normal
+2955_left.jpg,normal
+2956_left.jpg,normal
+2957_left.jpg,normal
+2958_left.jpg,normal
+2959_left.jpg,normal
+2960_left.jpg,normal
+2961_left.jpg,normal
+2962_left.jpg,normal
+2963_left.jpg,normal
+2964_left.jpg,normal
+2965_left.jpg,normal
+2966_left.jpg,normal
+2967_left.jpg,normal
+2968_left.jpg,normal
+2969_left.jpg,normal
+2970_left.jpg,normal
+2971_left.jpg,normal
+2972_left.jpg,normal
+2973_left.jpg,normal
+2974_left.jpg,normal
+2975_left.jpg,normal
+2976_left.jpg,normal
+2977_left.jpg,normal
+2978_left.jpg,normal
+2979_left.jpg,normal
+2980_left.jpg,normal
+2981_left.jpg,normal
+2982_left.jpg,normal
+2983_left.jpg,normal
+2984_left.jpg,normal
+2985_left.jpg,normal
+2986_left.jpg,normal
+2987_left.jpg,normal
+2988_left.jpg,normal
+2989_left.jpg,normal
+2990_left.jpg,normal
+2991_left.jpg,normal
+2992_left.jpg,normal
+2993_left.jpg,normal
+2994_left.jpg,normal
+2995_left.jpg,normal
+2996_left.jpg,normal
+2997_left.jpg,normal
+2998_left.jpg,normal
+2999_left.jpg,normal
+3000_left.jpg,normal
+3001_left.jpg,normal
+3002_left.jpg,normal
+3003_left.jpg,normal
+3004_left.jpg,normal
+3005_left.jpg,normal
+3006_left.jpg,normal
+3007_left.jpg,normal
+3008_left.jpg,normal
+3009_left.jpg,normal
+3010_left.jpg,normal
+3011_left.jpg,normal
+3012_left.jpg,normal
+3013_left.jpg,normal
+3014_left.jpg,normal
+3015_left.jpg,normal
+3016_left.jpg,normal
+3017_left.jpg,normal
+3018_left.jpg,normal
+3019_left.jpg,normal
+3020_left.jpg,normal
+3021_left.jpg,normal
+3022_left.jpg,normal
+3023_left.jpg,normal
+3024_left.jpg,normal
+3025_left.jpg,normal
+3026_left.jpg,normal
+3027_left.jpg,normal
+3028_left.jpg,normal
+3029_left.jpg,normal
+3030_left.jpg,normal
+3031_left.jpg,normal
+3032_left.jpg,normal
+3033_left.jpg,normal
+3034_left.jpg,normal
+3035_left.jpg,normal
+3036_left.jpg,normal
+3037_left.jpg,normal
+3038_left.jpg,normal
+3039_left.jpg,normal
+3040_left.jpg,normal
+3041_left.jpg,normal
+3042_left.jpg,normal
+3043_left.jpg,normal
+3044_left.jpg,normal
+3045_left.jpg,normal
+3046_left.jpg,normal
+3047_left.jpg,normal
+3048_left.jpg,normal
+3049_left.jpg,normal
+3050_left.jpg,normal
+3051_left.jpg,normal
+3052_left.jpg,normal
+3053_left.jpg,normal
+3054_left.jpg,normal
+3055_left.jpg,normal
+3056_left.jpg,normal
+3057_left.jpg,normal
+3058_left.jpg,normal
+3059_left.jpg,normal
+3060_left.jpg,normal
+3061_left.jpg,normal
+3062_left.jpg,normal
+3063_left.jpg,normal
+3064_left.jpg,normal
+3065_left.jpg,normal
+3066_left.jpg,normal
+3067_left.jpg,normal
+3068_left.jpg,normal
+3069_left.jpg,normal
+3070_left.jpg,normal
+3071_left.jpg,normal
+3072_left.jpg,normal
+3073_left.jpg,normal
+3074_left.jpg,normal
+3075_left.jpg,normal
+3076_left.jpg,normal
+3077_left.jpg,normal
+3078_left.jpg,normal
+3079_left.jpg,normal
+3080_left.jpg,normal
+3081_left.jpg,normal
+3082_left.jpg,normal
+3083_left.jpg,normal
+3084_left.jpg,normal
+3085_left.jpg,normal
+3086_left.jpg,normal
+3087_left.jpg,normal
+3088_left.jpg,normal
+3089_left.jpg,normal
+3090_left.jpg,normal
+3091_left.jpg,normal
+3092_left.jpg,normal
+3093_left.jpg,normal
+3094_left.jpg,normal
+3095_left.jpg,normal
+3096_left.jpg,normal
+3097_left.jpg,normal
+3098_left.jpg,normal
+3099_left.jpg,normal
+3100_left.jpg,normal
+3101_left.jpg,normal
+3102_left.jpg,normal
+3103_left.jpg,normal
+3104_left.jpg,normal
+3105_left.jpg,normal
+3106_left.jpg,normal
+3107_left.jpg,normal
+3108_left.jpg,normal
+3109_left.jpg,normal
+3110_left.jpg,normal
+3111_left.jpg,normal
+3112_left.jpg,normal
+3113_left.jpg,normal
+3114_left.jpg,normal
+3115_left.jpg,normal
+3116_left.jpg,normal
+3117_left.jpg,normal
+3118_left.jpg,normal
+3119_left.jpg,normal
+3120_left.jpg,normal
+3121_left.jpg,normal
+3122_left.jpg,normal
+3123_left.jpg,normal
+3124_left.jpg,normal
+3125_left.jpg,normal
+3126_left.jpg,normal
+3127_left.jpg,normal
+3128_left.jpg,normal
+3129_left.jpg,normal
+3130_left.jpg,normal
+3131_left.jpg,normal
+3132_left.jpg,normal
+3133_left.jpg,normal
+3134_left.jpg,normal
+3135_left.jpg,normal
+3136_left.jpg,normal
+3137_left.jpg,normal
+3138_left.jpg,normal
+3139_left.jpg,normal
+3140_left.jpg,normal
+3141_left.jpg,normal
+3142_left.jpg,normal
+3143_left.jpg,normal
+3144_left.jpg,normal
+3145_left.jpg,normal
+3146_left.jpg,normal
+3147_left.jpg,normal
+3148_left.jpg,normal
+3149_left.jpg,normal
+3150_left.jpg,normal
+3151_left.jpg,normal
+3152_left.jpg,normal
+3153_left.jpg,normal
+3154_left.jpg,normal
+3155_left.jpg,normal
+3156_left.jpg,normal
+3157_left.jpg,normal
+3158_left.jpg,normal
+3159_left.jpg,normal
+3160_left.jpg,normal
+3161_left.jpg,normal
+3162_left.jpg,normal
+3163_left.jpg,normal
+3164_left.jpg,normal
+3165_left.jpg,normal
+3166_left.jpg,normal
+3167_left.jpg,normal
+3168_left.jpg,normal
+3169_left.jpg,normal
+3170_left.jpg,normal
+3171_left.jpg,normal
+3172_left.jpg,normal
+3173_left.jpg,normal
+3174_left.jpg,normal
+3175_left.jpg,normal
+3176_left.jpg,normal
+3177_left.jpg,normal
+3178_left.jpg,normal
+3179_left.jpg,normal
+3180_left.jpg,normal
+3181_left.jpg,normal
+3182_left.jpg,normal
+3183_left.jpg,normal
+3184_left.jpg,normal
+3185_left.jpg,normal
+3186_left.jpg,normal
+3187_left.jpg,normal
+3188_left.jpg,normal
+3189_left.jpg,normal
+3190_left.jpg,normal
+3191_left.jpg,normal
+3192_left.jpg,normal
+3193_left.jpg,normal
+3194_left.jpg,normal
+3195_left.jpg,normal
+3196_left.jpg,normal
+3197_left.jpg,normal
+3198_left.jpg,normal
+3199_left.jpg,normal
+3200_left.jpg,normal
+3201_left.jpg,normal
+3202_left.jpg,normal
+3203_left.jpg,normal
+3204_left.jpg,normal
+3205_left.jpg,normal
+3206_left.jpg,normal
+3207_left.jpg,normal
+3208_left.jpg,normal
+3209_left.jpg,normal
+3210_left.jpg,normal
+3211_left.jpg,normal
+3212_left.jpg,normal
+3213_left.jpg,normal
+3214_left.jpg,normal
+3215_left.jpg,normal
+3216_left.jpg,normal
+3217_left.jpg,normal
+3218_left.jpg,normal
+3219_left.jpg,normal
+3220_left.jpg,normal
+3221_left.jpg,normal
+3222_left.jpg,normal
+3223_left.jpg,normal
+3224_left.jpg,normal
+3225_left.jpg,normal
+3226_left.jpg,normal
+3227_left.jpg,normal
+3228_left.jpg,normal
+3229_left.jpg,normal
+3230_left.jpg,normal
+3231_left.jpg,normal
+3232_left.jpg,normal
+3233_left.jpg,normal
+3234_left.jpg,normal
+3235_left.jpg,normal
+3236_left.jpg,normal
+3237_left.jpg,normal
+3238_left.jpg,normal
+3239_left.jpg,normal
+3240_left.jpg,normal
+3241_left.jpg,normal
+3242_left.jpg,normal
+3243_left.jpg,normal
+3244_left.jpg,normal
+3245_left.jpg,normal
+3246_left.jpg,normal
+3247_left.jpg,normal
+3248_left.jpg,normal
+3249_left.jpg,normal
+3250_left.jpg,normal
+3251_left.jpg,normal
+3252_left.jpg,normal
+3253_left.jpg,normal
+3254_left.jpg,normal
+3255_left.jpg,normal
+3256_left.jpg,normal
+3257_left.jpg,normal
+3258_left.jpg,normal
+3259_left.jpg,normal
+3260_left.jpg,normal
+3261_left.jpg,normal
+3262_left.jpg,normal
+3263_left.jpg,normal
+3264_left.jpg,normal
+3266_left.jpg,normal
+3267_left.jpg,normal
+3268_left.jpg,normal
+3269_left.jpg,normal
+3270_left.jpg,normal
+3271_left.jpg,normal
+3272_left.jpg,normal
+3273_left.jpg,normal
+3274_left.jpg,normal
+3275_left.jpg,normal
+3276_left.jpg,normal
+3277_left.jpg,normal
+3278_left.jpg,normal
+3279_left.jpg,normal
+3280_left.jpg,normal
+3281_left.jpg,normal
+3282_left.jpg,normal
+3283_left.jpg,normal
+3284_left.jpg,normal
+3285_left.jpg,normal
+3286_left.jpg,normal
+3287_left.jpg,normal
+3288_left.jpg,normal
+3289_left.jpg,normal
+3290_left.jpg,normal
+3291_left.jpg,normal
+3292_left.jpg,normal
+3293_left.jpg,normal
+3294_left.jpg,normal
+3295_left.jpg,normal
+3296_left.jpg,normal
+3297_left.jpg,normal
+3298_left.jpg,normal
+3299_left.jpg,normal
+3300_left.jpg,normal
+3301_left.jpg,normal
+3302_left.jpg,normal
+3303_left.jpg,normal
+3304_left.jpg,normal
+3305_left.jpg,normal
+3306_left.jpg,normal
+3307_left.jpg,normal
+3308_left.jpg,normal
+3309_left.jpg,normal
+3310_left.jpg,normal
+3311_left.jpg,normal
+3312_left.jpg,normal
+3313_left.jpg,normal
+3314_left.jpg,normal
+3315_left.jpg,normal
+3316_left.jpg,normal
+3317_left.jpg,normal
+3318_left.jpg,normal
+3319_left.jpg,normal
+3320_left.jpg,normal
+3321_left.jpg,normal
+3322_left.jpg,normal
+3323_left.jpg,normal
+3324_left.jpg,normal
+3325_left.jpg,normal
+3326_left.jpg,normal
+3327_left.jpg,normal
+3328_left.jpg,normal
+3329_left.jpg,normal
+3330_left.jpg,normal
+3331_left.jpg,normal
+3332_left.jpg,normal
+3333_left.jpg,normal
+3334_left.jpg,normal
+3335_left.jpg,normal
+3336_left.jpg,normal
+3337_left.jpg,normal
+3338_left.jpg,normal
+3339_left.jpg,normal
+3340_left.jpg,normal
+3341_left.jpg,normal
+3342_left.jpg,normal
+3343_left.jpg,normal
+3344_left.jpg,normal
+3345_left.jpg,normal
+3346_left.jpg,normal
+3347_left.jpg,normal
+3348_left.jpg,normal
+3349_left.jpg,normal
+3350_left.jpg,normal
+3351_left.jpg,normal
+3352_left.jpg,normal
+3353_left.jpg,normal
+3354_left.jpg,normal
+3355_left.jpg,normal
+3356_left.jpg,normal
+3357_left.jpg,normal
+3358_left.jpg,normal
+3359_left.jpg,normal
+3360_left.jpg,normal
+3361_left.jpg,normal
+3362_left.jpg,normal
+3363_left.jpg,normal
+3364_left.jpg,normal
+3365_left.jpg,normal
+3366_left.jpg,normal
+3367_left.jpg,normal
+3368_left.jpg,normal
+3369_left.jpg,normal
+3370_left.jpg,normal
+3371_left.jpg,normal
+3372_left.jpg,normal
+3373_left.jpg,normal
+3374_left.jpg,normal
+3375_left.jpg,normal
+3376_left.jpg,normal
+3377_left.jpg,normal
+3378_left.jpg,normal
+3379_left.jpg,normal
+3380_left.jpg,normal
+3381_left.jpg,normal
+3382_left.jpg,normal
+3383_left.jpg,normal
+3384_left.jpg,normal
+3385_left.jpg,normal
+3386_left.jpg,normal
+3387_left.jpg,normal
+3388_left.jpg,normal
+3389_left.jpg,normal
+3390_left.jpg,normal
+3391_left.jpg,normal
+3392_left.jpg,normal
+3393_left.jpg,normal
+3394_left.jpg,normal
+3395_left.jpg,normal
+3396_left.jpg,normal
+3397_left.jpg,normal
+3398_left.jpg,normal
+3399_left.jpg,normal
+3400_left.jpg,normal
+3401_left.jpg,normal
+3403_left.jpg,normal
+3404_left.jpg,normal
+3405_left.jpg,normal
+3406_left.jpg,normal
+3407_left.jpg,normal
+3408_left.jpg,normal
+3409_left.jpg,normal
+3410_left.jpg,normal
+3411_left.jpg,normal
+3412_left.jpg,normal
+3413_left.jpg,normal
+3414_left.jpg,normal
+3415_left.jpg,normal
+3416_left.jpg,normal
+3417_left.jpg,normal
+3418_left.jpg,normal
+3419_left.jpg,normal
+3420_left.jpg,normal
+3421_left.jpg,normal
+3422_left.jpg,normal
+3423_left.jpg,normal
+3424_left.jpg,normal
+3425_left.jpg,normal
+3426_left.jpg,normal
+3427_left.jpg,normal
+3428_left.jpg,normal
+3429_left.jpg,normal
+3430_left.jpg,normal
+3431_left.jpg,normal
+3432_left.jpg,normal
+3433_left.jpg,normal
+3434_left.jpg,normal
+3435_left.jpg,normal
+3436_left.jpg,normal
+3437_left.jpg,normal
+3438_left.jpg,normal
+3439_left.jpg,normal
+3440_left.jpg,normal
+3441_left.jpg,normal
+3442_left.jpg,normal
+3443_left.jpg,normal
+3444_left.jpg,normal
+3445_left.jpg,normal
+3446_left.jpg,normal
+3448_left.jpg,normal
+3450_left.jpg,normal
+3485_left.jpg,normal
+3932_left.jpg,diabetes
+3934_left.jpg,diabetes
+3936_left.jpg,diabetes
+3937_left.jpg,normal
+3938_left.jpg,diabetes
+3939_left.jpg,diabetes
+3940_left.jpg,normal
+3941_left.jpg,diabetes
+3943_left.jpg,diabetes
+3944_left.jpg,diabetes
+3945_left.jpg,diabetes
+3946_left.jpg,diabetes
+3947_left.jpg,diabetes
+3948_left.jpg,diabetes
+3949_left.jpg,normal
+3950_left.jpg,diabetes
+3952_left.jpg,diabetes
+3953_left.jpg,diabetes
+3954_left.jpg,diabetes
+3955_left.jpg,diabetes
+3956_left.jpg,diabetes
+3957_left.jpg,diabetes
+3958_left.jpg,diabetes
+3960_left.jpg,diabetes
+3961_left.jpg,normal
+3962_left.jpg,diabetes
+3966_left.jpg,diabetes
+3968_left.jpg,diabetes
+3969_left.jpg,diabetes
+3970_left.jpg,normal
+3971_left.jpg,diabetes
+3973_left.jpg,diabetes
+3976_left.jpg,diabetes
+3977_left.jpg,diabetes
+3978_left.jpg,diabetes
+3980_left.jpg,diabetes
+3981_left.jpg,diabetes
+3982_left.jpg,diabetes
+3983_left.jpg,normal
+3984_left.jpg,diabetes
+3985_left.jpg,diabetes
+3986_left.jpg,diabetes
+3987_left.jpg,diabetes
+3990_left.jpg,diabetes
+3991_left.jpg,diabetes
+3992_left.jpg,diabetes
+3993_left.jpg,diabetes
+3994_left.jpg,diabetes
+3995_left.jpg,diabetes
+3998_left.jpg,diabetes
+3999_left.jpg,diabetes
+4001_left.jpg,diabetes
+4003_left.jpg,diabetes
+4005_left.jpg,diabetes
+4008_left.jpg,diabetes
+4009_left.jpg,diabetes
+4011_left.jpg,diabetes
+4013_left.jpg,diabetes
+4014_left.jpg,diabetes
+4015_left.jpg,diabetes
+4016_left.jpg,diabetes
+4020_left.jpg,diabetes
+4021_left.jpg,diabetes
+4022_left.jpg,diabetes
+4023_left.jpg,normal
+4024_left.jpg,normal
+4025_left.jpg,diabetes
+4026_left.jpg,normal
+4027_left.jpg,normal
+4028_left.jpg,diabetes
+4029_left.jpg,diabetes
+4030_left.jpg,diabetes
+4032_left.jpg,diabetes
+4033_left.jpg,diabetes
+4034_left.jpg,diabetes
+4035_left.jpg,diabetes
+4036_left.jpg,normal
+4037_left.jpg,diabetes
+4038_left.jpg,normal
+4039_left.jpg,diabetes
+4040_left.jpg,diabetes
+4041_left.jpg,diabetes
+4044_left.jpg,diabetes
+4045_left.jpg,diabetes
+4046_left.jpg,diabetes
+4047_left.jpg,diabetes
+4048_left.jpg,diabetes
+4049_left.jpg,diabetes
+4050_left.jpg,diabetes
+4051_left.jpg,diabetes
+4052_left.jpg,diabetes
+4053_left.jpg,diabetes
+4054_left.jpg,diabetes
+4056_left.jpg,normal
+4057_left.jpg,normal
+4058_left.jpg,normal
+4059_left.jpg,normal
+4060_left.jpg,normal
+4061_left.jpg,diabetes
+4063_left.jpg,diabetes
+4064_left.jpg,diabetes
+4066_left.jpg,diabetes
+4067_left.jpg,diabetes
+4068_left.jpg,diabetes
+4069_left.jpg,normal
+4071_left.jpg,diabetes
+4072_left.jpg,diabetes
+4073_left.jpg,diabetes
+4074_left.jpg,diabetes
+4076_left.jpg,normal
+4078_left.jpg,diabetes
+4079_left.jpg,normal
+4080_left.jpg,diabetes
+4081_left.jpg,diabetes
+4082_left.jpg,diabetes
+4083_left.jpg,diabetes
+4084_left.jpg,diabetes
+4085_left.jpg,diabetes
+4086_left.jpg,diabetes
+4087_left.jpg,diabetes
+4088_left.jpg,diabetes
+4089_left.jpg,diabetes
+4090_left.jpg,diabetes
+4091_left.jpg,diabetes
+4093_left.jpg,diabetes
+4095_left.jpg,diabetes
+4096_left.jpg,diabetes
+4097_left.jpg,diabetes
+4098_left.jpg,diabetes
+4099_left.jpg,diabetes
+4100_left.jpg,normal
+4101_left.jpg,diabetes
+4105_left.jpg,diabetes
+4106_left.jpg,normal
+4107_left.jpg,diabetes
+4109_left.jpg,diabetes
+4110_left.jpg,diabetes
+4111_left.jpg,normal
+4112_left.jpg,diabetes
+4113_left.jpg,diabetes
+4114_left.jpg,diabetes
+4115_left.jpg,diabetes
+4116_left.jpg,diabetes
+4117_left.jpg,normal
+4118_left.jpg,normal
+4119_left.jpg,diabetes
+4120_left.jpg,diabetes
+4121_left.jpg,diabetes
+4122_left.jpg,diabetes
+4123_left.jpg,diabetes
+4124_left.jpg,diabetes
+4126_left.jpg,normal
+4128_left.jpg,diabetes
+4129_left.jpg,hypertension
+4130_left.jpg,normal
+4133_left.jpg,diabetes
+4134_left.jpg,diabetes
+4136_left.jpg,diabetes
+4138_left.jpg,diabetes
+4139_left.jpg,diabetes
+4140_left.jpg,diabetes
+4141_left.jpg,normal
+4142_left.jpg,diabetes
+4144_left.jpg,diabetes
+4146_left.jpg,normal
+4147_left.jpg,diabetes
+4148_left.jpg,diabetes
+4151_left.jpg,diabetes
+4152_left.jpg,normal
+4153_left.jpg,normal
+4154_left.jpg,normal
+4155_left.jpg,diabetes
+4156_left.jpg,diabetes
+4158_left.jpg,diabetes
+4159_left.jpg,diabetes
+4160_left.jpg,diabetes
+4161_left.jpg,diabetes
+4162_left.jpg,diabetes
+4163_left.jpg,diabetes
+4164_left.jpg,diabetes
+4166_left.jpg,diabetes
+4167_left.jpg,normal
+4168_left.jpg,diabetes
+4171_left.jpg,diabetes
+4172_left.jpg,diabetes
+4173_left.jpg,diabetes
+4174_left.jpg,diabetes
+4175_left.jpg,diabetes
+4176_left.jpg,normal
+4177_left.jpg,diabetes
+4178_left.jpg,diabetes
+4179_left.jpg,diabetes
+4180_left.jpg,diabetes
+4181_left.jpg,diabetes
+4182_left.jpg,diabetes
+4183_left.jpg,diabetes
+4184_left.jpg,diabetes
+4185_left.jpg,diabetes
+4186_left.jpg,normal
+4188_left.jpg,diabetes
+4190_left.jpg,diabetes
+4192_left.jpg,diabetes
+4193_left.jpg,normal
+4194_left.jpg,diabetes
+4195_left.jpg,diabetes
+4196_left.jpg,diabetes
+4197_left.jpg,normal
+4198_left.jpg,diabetes
+4199_left.jpg,diabetes
+4200_left.jpg,normal
+4201_left.jpg,diabetes
+4202_left.jpg,hypertension
+4203_left.jpg,normal
+4205_left.jpg,diabetes
+4206_left.jpg,diabetes
+4208_left.jpg,normal
+4209_left.jpg,normal
+4210_left.jpg,diabetes
+4211_left.jpg,diabetes
+4212_left.jpg,diabetes
+4213_left.jpg,diabetes
+4215_left.jpg,diabetes
+4218_left.jpg,normal
+4219_left.jpg,normal
+4220_left.jpg,diabetes
+4221_left.jpg,diabetes
+4222_left.jpg,diabetes
+4224_left.jpg,normal
+4225_left.jpg,normal
+4226_left.jpg,diabetes
+4227_left.jpg,diabetes
+4229_left.jpg,normal
+4230_left.jpg,normal
+4231_left.jpg,normal
+4232_left.jpg,diabetes
+4233_left.jpg,diabetes
+4234_left.jpg,diabetes
+4235_left.jpg,diabetes
+4236_left.jpg,diabetes
+4237_left.jpg,diabetes
+4238_left.jpg,normal
+4239_left.jpg,diabetes
+4240_left.jpg,normal
+4241_left.jpg,diabetes
+4242_left.jpg,normal
+4244_left.jpg,diabetes
+4245_left.jpg,normal
+4246_left.jpg,diabetes
+4247_left.jpg,diabetes
+4248_left.jpg,diabetes
+4249_left.jpg,diabetes
+4250_left.jpg,diabetes
+4251_left.jpg,diabetes
+4252_left.jpg,diabetes
+4253_left.jpg,normal
+4254_left.jpg,diabetes
+4255_left.jpg,diabetes
+4256_left.jpg,diabetes
+4258_left.jpg,diabetes
+4259_left.jpg,diabetes
+4260_left.jpg,diabetes
+4261_left.jpg,normal
+4262_left.jpg,diabetes
+4263_left.jpg,diabetes
+4265_left.jpg,diabetes
+4266_left.jpg,diabetes
+4267_left.jpg,normal
+4269_left.jpg,diabetes
+4271_left.jpg,normal
+4272_left.jpg,diabetes
+4273_left.jpg,diabetes
+4274_left.jpg,diabetes
+4275_left.jpg,diabetes
+4276_left.jpg,diabetes
+4277_left.jpg,diabetes
+4281_left.jpg,diabetes
+4282_left.jpg,diabetes
+4283_left.jpg,normal
+4284_left.jpg,diabetes
+4285_left.jpg,diabetes
+4286_left.jpg,diabetes
+4287_left.jpg,normal
+4288_left.jpg,normal
+4289_left.jpg,diabetes
+4291_left.jpg,diabetes
+4292_left.jpg,normal
+4293_left.jpg,diabetes
+4295_left.jpg,diabetes
+4296_left.jpg,diabetes
+4297_left.jpg,normal
+4298_left.jpg,normal
+4299_left.jpg,diabetes
+4300_left.jpg,normal
+4301_left.jpg,diabetes
+4302_left.jpg,diabetes
+4303_left.jpg,diabetes
+4304_left.jpg,diabetes
+4305_left.jpg,diabetes
+4306_left.jpg,diabetes
+4307_left.jpg,diabetes
+4308_left.jpg,normal
+4309_left.jpg,normal
+4311_left.jpg,diabetes
+4312_left.jpg,diabetes
+4313_left.jpg,diabetes
+4314_left.jpg,diabetes
+4315_left.jpg,diabetes
+4316_left.jpg,normal
+4317_left.jpg,diabetes
+4318_left.jpg,diabetes
+4319_left.jpg,diabetes
+4320_left.jpg,diabetes
+4321_left.jpg,diabetes
+4322_left.jpg,diabetes
+4323_left.jpg,diabetes
+4324_left.jpg,diabetes
+4325_left.jpg,normal
+4326_left.jpg,diabetes
+4328_left.jpg,diabetes
+4329_left.jpg,normal
+4330_left.jpg,normal
+4331_left.jpg,diabetes
+4332_left.jpg,diabetes
+4333_left.jpg,normal
+4334_left.jpg,diabetes
+4335_left.jpg,diabetes
+4336_left.jpg,normal
+4337_left.jpg,diabetes
+4338_left.jpg,diabetes
+4339_left.jpg,diabetes
+4340_left.jpg,diabetes
+4342_left.jpg,diabetes
+4343_left.jpg,normal
+4345_left.jpg,diabetes
+4347_left.jpg,diabetes
+4348_left.jpg,normal
+4349_left.jpg,diabetes
+4350_left.jpg,diabetes
+4351_left.jpg,diabetes
+4352_left.jpg,normal
+4353_left.jpg,diabetes
+4354_left.jpg,diabetes
+4355_left.jpg,normal
+4356_left.jpg,diabetes
+4357_left.jpg,diabetes
+4358_left.jpg,diabetes
+4359_left.jpg,diabetes
+4360_left.jpg,normal
+4361_left.jpg,normal
+4362_left.jpg,diabetes
+4365_left.jpg,diabetes
+4367_left.jpg,diabetes
+4368_left.jpg,normal
+4371_left.jpg,diabetes
+4372_left.jpg,diabetes
+4373_left.jpg,normal
+4374_left.jpg,normal
+4375_left.jpg,diabetes
+4377_left.jpg,normal
+4379_left.jpg,diabetes
+4380_left.jpg,diabetes
+4383_left.jpg,diabetes
+4384_left.jpg,diabetes
+4385_left.jpg,diabetes
+4387_left.jpg,normal
+4388_left.jpg,diabetes
+4389_left.jpg,diabetes
+4391_left.jpg,diabetes
+4392_left.jpg,normal
+4394_left.jpg,diabetes
+4395_left.jpg,diabetes
+4396_left.jpg,diabetes
+4397_left.jpg,diabetes
+4398_left.jpg,diabetes
+4399_left.jpg,diabetes
+4400_left.jpg,diabetes
+4401_left.jpg,diabetes
+4403_left.jpg,diabetes
+4404_left.jpg,diabetes
+4406_left.jpg,diabetes
+4408_left.jpg,diabetes
+4409_left.jpg,diabetes
+4410_left.jpg,normal
+4411_left.jpg,diabetes
+4412_left.jpg,diabetes
+4413_left.jpg,diabetes
+4414_left.jpg,normal
+4415_left.jpg,diabetes
+4417_left.jpg,normal
+4418_left.jpg,diabetes
+4419_left.jpg,diabetes
+4420_left.jpg,diabetes
+4421_left.jpg,diabetes
+4422_left.jpg,normal
+4424_left.jpg,diabetes
+4425_left.jpg,diabetes
+4426_left.jpg,diabetes
+4427_left.jpg,diabetes
+4428_left.jpg,diabetes
+4429_left.jpg,diabetes
+4430_left.jpg,diabetes
+4431_left.jpg,diabetes
+4432_left.jpg,diabetes
+4433_left.jpg,diabetes
+4436_left.jpg,diabetes
+4437_left.jpg,diabetes
+4438_left.jpg,normal
+4439_left.jpg,diabetes
+4440_left.jpg,normal
+4441_left.jpg,diabetes
+4443_left.jpg,diabetes
+4444_left.jpg,diabetes
+4445_left.jpg,diabetes
+4447_left.jpg,diabetes
+4450_left.jpg,diabetes
+4451_left.jpg,diabetes
+4452_left.jpg,diabetes
+4453_left.jpg,diabetes
+4455_left.jpg,diabetes
+4456_left.jpg,diabetes
+4458_left.jpg,diabetes
+4459_left.jpg,normal
+4460_left.jpg,other disease
+4461_left.jpg,diabetes
+4462_left.jpg,diabetes
+4464_left.jpg,normal
+4465_left.jpg,normal
+4466_left.jpg,diabetes
+4467_left.jpg,diabetes
+4468_left.jpg,normal
+4469_left.jpg,normal
+4470_left.jpg,diabetes
+4471_left.jpg,diabetes
+4472_left.jpg,diabetes
+4473_left.jpg,diabetes
+4474_left.jpg,diabetes
+4475_left.jpg,normal
+4476_left.jpg,diabetes
+4477_left.jpg,diabetes
+4478_left.jpg,hypertension
+4479_left.jpg,diabetes
+4480_left.jpg,diabetes
+4481_left.jpg,diabetes
+4484_left.jpg,diabetes
+4486_left.jpg,normal
+4487_left.jpg,normal
+4488_left.jpg,diabetes
+4489_left.jpg,normal
+4493_left.jpg,diabetes
+4494_left.jpg,diabetes
+4495_left.jpg,diabetes
+4496_left.jpg,normal
+4497_left.jpg,diabetes
+4498_left.jpg,diabetes
+4500_left.jpg,normal
+4502_left.jpg,diabetes
+4506_left.jpg,diabetes
+4507_left.jpg,diabetes
+4509_left.jpg,diabetes
+4511_left.jpg,diabetes
+4512_left.jpg,normal
+4513_left.jpg,diabetes
+4516_left.jpg,diabetes
+4519_left.jpg,diabetes
+4520_left.jpg,diabetes
+4523_left.jpg,normal
+4524_left.jpg,diabetes
+4525_left.jpg,diabetes
+4527_left.jpg,diabetes
+4528_left.jpg,diabetes
+4529_left.jpg,diabetes
+4531_left.jpg,normal
+4532_left.jpg,diabetes
+4533_left.jpg,diabetes
+4534_left.jpg,diabetes
+4535_left.jpg,normal
+4536_left.jpg,diabetes
+4538_left.jpg,diabetes
+4539_left.jpg,diabetes
+4540_left.jpg,diabetes
+4541_left.jpg,diabetes
+4542_left.jpg,normal
+4543_left.jpg,diabetes
+4544_left.jpg,diabetes
+4545_left.jpg,diabetes
+4546_left.jpg,diabetes
+4548_left.jpg,diabetes
+4549_left.jpg,diabetes
+4550_left.jpg,diabetes
+4551_left.jpg,diabetes
+4552_left.jpg,diabetes
+4553_left.jpg,diabetes
+4555_left.jpg,diabetes
+4556_left.jpg,diabetes
+4557_left.jpg,diabetes
+4559_left.jpg,hypertension
+4561_left.jpg,diabetes
+4562_left.jpg,hypertension
+4563_left.jpg,diabetes
+4564_left.jpg,diabetes
+4565_left.jpg,diabetes
+4566_left.jpg,diabetes
+4567_left.jpg,diabetes
+4568_left.jpg,diabetes
+4570_left.jpg,normal
+4571_left.jpg,normal
+4572_left.jpg,diabetes
+4573_left.jpg,diabetes
+4574_left.jpg,diabetes
+4575_left.jpg,diabetes
+4576_left.jpg,normal
+4577_left.jpg,normal
+4578_left.jpg,normal
+4579_left.jpg,hypertension
+4581_left.jpg,hypertension
+4583_left.jpg,diabetes
+4584_left.jpg,diabetes
+4585_left.jpg,diabetes
+4586_left.jpg,diabetes
+4587_left.jpg,diabetes
+4588_left.jpg,diabetes
+4589_left.jpg,diabetes
+4590_left.jpg,diabetes
+4591_left.jpg,diabetes
+4592_left.jpg,hypertension
+4594_left.jpg,normal
+4595_left.jpg,diabetes
+4596_left.jpg,diabetes
+4597_left.jpg,diabetes
+4599_left.jpg,diabetes
+4601_left.jpg,diabetes
+4602_left.jpg,diabetes
+4604_left.jpg,diabetes
+4605_left.jpg,diabetes
+4607_left.jpg,diabetes
+4608_left.jpg,normal
+4609_left.jpg,diabetes
+4610_left.jpg,diabetes
+4611_left.jpg,diabetes
+4612_left.jpg,diabetes
+4613_left.jpg,diabetes
+4614_left.jpg,normal
+4615_left.jpg,diabetes
+4616_left.jpg,diabetes
+4617_left.jpg,diabetes
+4618_left.jpg,normal
+4619_left.jpg,diabetes
+4621_left.jpg,normal
+4622_left.jpg,diabetes
+4625_left.jpg,normal
+4626_left.jpg,diabetes
+4627_left.jpg,diabetes
+4628_left.jpg,diabetes
+4629_left.jpg,diabetes
+4630_left.jpg,diabetes
+4633_left.jpg,diabetes
+4634_left.jpg,diabetes
+4635_left.jpg,diabetes
+4636_left.jpg,diabetes
+4637_left.jpg,normal
+4638_left.jpg,diabetes
+4639_left.jpg,normal
+4640_left.jpg,diabetes
+4641_left.jpg,normal
+4642_left.jpg,diabetes
+4643_left.jpg,diabetes
+4644_left.jpg,diabetes
+4650_left.jpg,diabetes
+4651_left.jpg,diabetes
+4653_left.jpg,diabetes
+4655_left.jpg,diabetes
+4657_left.jpg,diabetes
+4658_left.jpg,diabetes
+4659_left.jpg,diabetes
+4660_left.jpg,diabetes
+4664_left.jpg,diabetes
+4670_left.jpg,diabetes
+4671_left.jpg,diabetes
+4672_left.jpg,normal
+4673_left.jpg,diabetes
+4675_left.jpg,diabetes
+4676_left.jpg,diabetes
+4677_left.jpg,diabetes
+4678_left.jpg,diabetes
+4679_left.jpg,diabetes
+4682_left.jpg,diabetes
+4683_left.jpg,normal
+4688_left.jpg,diabetes
+4689_left.jpg,diabetes
+4690_left.jpg,diabetes
