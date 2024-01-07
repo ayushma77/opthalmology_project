@@ -98,6 +98,9 @@ with open(os.path.join(BASE_DIR, "left_data.csv"), newline='') as csvfile:
         elif 'moderate non proliferative retinopathy' in left_diagnostic.lower() and 'optic disc edema' in left_diagnostic.lower():
             left_image_paths.append(left_image_path)
             labels.append('diabetes')
+        elif 'moderate non proliferative retinopathy' in left_diagnostic.lower() and 'vitreous degeneration' in left_diagnostic.lower():
+            left_image_paths.append(left_image_path)
+            labels.append('diabetes')
         elif 'laser spot' in left_diagnostic.lower() and 'moderate non proliferative retinopathy' in left_diagnostic.lower():
             left_image_paths.append(left_image_path)
             labels.append('diabetes')
@@ -260,8 +263,12 @@ with open(os.path.join(BASE_DIR, "left_data.csv"), newline='') as csvfile:
         elif left_diagnostic.lower() == ' glaucoma':
             left_image_paths.append(left_image_path)
             labels.append('glaucoma')
-    
+            
+            
         elif left_diagnostic.lower() == 'optic disc edema':
+            left_image_paths.append(left_image_path)
+            labels.append('other disease')
+        elif left_diagnostic.lower() == 'epiretinal membrane over the macula':
             left_image_paths.append(left_image_path)
             labels.append('other disease')
         elif left_diagnostic.lower() == 'macular epiretinal membrane':
