@@ -4,3 +4,5 @@ numpy
 openpyxl
 scikit-learn
 torchvision
+torchsummary
+tensorboard

@@ -1,0 +1,103 @@
+[33mcommit b7372ba55caaa708ca7e5020487e215e5201fd1b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: e1d791e 975d9dc
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Thu Jan 11 13:39:42 2024 +0545
+
+    Resolve merge conflicts
+
+[33mcommit e1d791efea586646567cff7be88d881c97c57595[m
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Thu Jan 11 13:33:35 2024 +0545
+
+    just added something
+
+[33mcommit 975d9dc2f71a4d3ba4704498225599d211b13f0a[m
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Wed Jan 10 15:53:31 2024 +0545
+
+    save
+
+[33mcommit c3c7276866db6ead225417b0364ba5794e10913e[m
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Wed Jan 10 15:26:46 2024 +0545
+
+    cropped image
+
+[33mcommit 5929542a263d8e80f81211ccfe5b96121d43d1f9[m
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Mon Jan 8 16:12:51 2024 +0545
+
+    code is updating
+
+[33mcommit a9d1a7a7c5ce98060893740036f3871f0f9847f2[m
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Mon Jan 8 12:47:58 2024 +0545
+
+    dta processing
+
+[33mcommit 142ff176eb816dc4390a9d1c5a9bf563ff3b6dad[m
+Merge: 6239525 e1279b8
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Sun Jan 7 17:42:40 2024 +0545
+
+    Merge branch 'main' of github.com:ayushma77/opthalmology_project
+
+[33mcommit 62395257d85f72e530ff4ea4fdaf053fdf01bdee[m
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Sun Jan 7 17:41:36 2024 +0545
+
+    commited
+
+[33mcommit 35a6a1864c7d63c21d06cacff656bf2cf3a74e4c[m
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Sun Jan 7 17:41:01 2024 +0545
+
+    commited
+
+[33mcommit e1279b8967a71cc696b0769adc020276774c4c73[m
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Sun Jan 7 16:02:53 2024 +0545
+
+    pmaking notebook
+
+[33mcommit 567309536cb5e029983dbf43359071ed3febb537[m
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Sun Jan 7 16:02:03 2024 +0545
+
+    making notebook
+
+[33mcommit 0313a3271766f6adf18ff96b6d0b21c66321c998[m
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Thu Jan 4 15:32:29 2024 +0545
+
+    dataset preparation
+
+[33mcommit e2aeb292f640214a401001a316e0bc925c85c1fa[m
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Thu Jan 4 13:38:48 2024 +0545
+
+    updated for left labels
+
+[33mcommit cf0e7088a54a67a2cd31d112c68ace4b8d910a73[m
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Wed Jan 3 16:05:16 2024 +0545
+
+    label
+
+[33mcommit 64f72c2ce69b8c894aa691209c8d100de0ee86f4[m
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Wed Jan 3 13:12:18 2024 +0545
+
+    preparing datasets
+
+[33mcommit 524f1565f397dbf98a0d7061a4d511339cd25366[m
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Wed Jan 3 13:11:50 2024 +0545
+
+    preparing datasets
+
+[33mcommit 9e63dccf7d0024282e14083200da2271d65a2a92[m
+Author: ayushma77 <pandeyayushma77@gmail.com>
+Date:   Tue Jan 2 16:07:57 2024 +0545
+
+    data splitting
