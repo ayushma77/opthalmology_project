@@ -1,13 +1,14 @@
+from torchvision import transforms as v2transforms
+
+
 def crop_nonzero(image):
     bbox = image.getbbox()
     cropped_image = image.crop(bbox)
     return cropped_image
 
-# Custom transform for cropping non-zero regions
 class CropNonzero(object):
     def __call__(self, image):
         return crop_nonzero(image)
-from torchvision import transforms as v2transforms
 
 # Define transformations
 transforms = v2transforms.Compose([

@@ -13,22 +13,6 @@ labels_to_index_map = {"N": 0, "D": 1, "G": 2,"C":3,"A":4,"H":5,"M":6,"O":7}
 def label_to_idx(label):
     return labels_to_index_map.get(label, -1)
 
-# def read_as_csv(csv_file):
-#     image_paths = []
-#     labels = []
-
-#     with open(csv_file, "r") as f:
-#         reader = csv.reader(f)
-#         header = next(reader)
-        
-#         fundus_index = header.index("fundus")
-#         label_index = header.index("label")
-
-#         for row in reader:
-#             image_paths.append(row[fundus_index])
-#             labels.append(row[label_index])
-
-#     return image_paths, labels
 def read_as_csv(csv_file, has_labels=True):
     image_paths = []
     labels = []
@@ -47,7 +31,6 @@ def read_as_csv(csv_file, has_labels=True):
                 labels.append(row[label_index])
 
     return image_paths, labels if has_labels else image_paths
-
 
 class DRDataset(Dataset):
     def __init__(self, csv_path, transforms=None, has_labels=True):
@@ -68,10 +51,7 @@ class DRDataset(Dataset):
         label = label_to_idx(label_name) if label_name is not None else None
 
         image = Image.open(image_path).convert("RGB")
-        #print(f"Before transformation - Image {index} dimensions: {image.size}")
 
         if self.transforms:
             image = self.transforms(image)
-        #print(f"After transformation - Image {index} dimensions: {image.size}")
-
         return image, label

@@ -5,31 +5,24 @@ from datetime import datetime
 import numpy as np
 import torch
 import torch.nn as nn
-# from sklearn.utils import class_weight
 from torch.utils.tensorboard import SummaryWriter
 
-from models.resnet50 import ResNet50Model
-
-# from scripts.prepare_datasets import y_train
-EPOCHS=10
-LR=0.001
-SEED=42
-NUM_LABELS=8
+from models.vgg16 import VGG16Model
 from src.dataloader import train_data_loader, val_data_loader
 from src.io import get_device, save_model_checkpoint
-# from src.models.models_utils import get_device, load_model, parse_arguments
 from visualize_graph import visualize_graph
 
 warnings.filterwarnings("ignore", category=UserWarning)
 
-
-
+# from models.resnet50 import ResNet50Model
+EPOCHS=10
+LR=0.001
+SEED=42
+NUM_LABELS=8
 device = get_device()
 print(f"Using device:{device}")
 
-
 torch.manual_seed(SEED)
-
 best_val_acc = 0
 
 # args = parse_arguments(training=True)
@@ -42,13 +35,8 @@ os.mkdir(f"artifacts/{folder_name}")
 
 writer = SummaryWriter(log_dir=f"artifacts/{folder_name}/tensorboard_logs")
 
+model =VGG16Model(num_labels=NUM_LABELS).to(device)
 
-# Conditional block to create the model
-model =ResNet50Model(num_labels=NUM_LABELS).to(device)
-
-
-# class_weights = class_weight.compute_class_weight("balanced",classes=np.unique(y_train), y=y_train)
-# class_weights=torch.tensor(class_weights,dtype=torch.float32)
 criterion = nn.CrossEntropyLoss().to(device)
 optimizer = torch.optim.Adam(model.parameters(), lr=LR)
 
