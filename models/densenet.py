@@ -39,8 +39,7 @@ if __name__ == "__main__":
     # Create a dummy input tensor and move it to GPU if available
     dummy_input = torch.randn(1, 3, 256, 256).to(device)
 
-    summary(model, input_size=(3, 256, 256), device='cuda' if torch.cuda.is_available() else 'cpu')
-
+    # Use torchsummary to print the model summary
+    summary(model, input_size=(3, 256, 256))
 
    
-
