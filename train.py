@@ -34,7 +34,7 @@ f_dt = dt.strftime("%Y-%m-%d-%H-%M-%S")
 
 folder_name = f"resnet50_run-{f_dt}"
 #folder_name = f"model_run-{args.model}_{f_dt}"
-os.mkdir(f"artifacts/{folder_name}", exist_ok=True)
+os.mkdir(f"artifacts/{folder_name}")
 
 writer = SummaryWriter(log_dir=f"artifacts/{folder_name}/tensorboard_logs")
 
