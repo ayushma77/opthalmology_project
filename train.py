@@ -16,6 +16,7 @@ from src.config import  EPOCHS,BATCH_SIZE,TEST_CSV,TRAIN_CSV,VAL_CSV,LR,SEED
 warnings.filterwarnings("ignore", category=UserWarning)
 
 # from models.resnet50 import ResNet50Model
+from models.densenet import DenseNetModel
 EPOCHS=EPOCHS
 LR=LR
 SEED=SEED
@@ -37,7 +38,7 @@ os.mkdir(f"artifacts/{folder_name}", exist_ok=True)
 
 writer = SummaryWriter(log_dir=f"artifacts/{folder_name}/tensorboard_logs")
 
-model =VGG16Model(num_labels=NUM_LABELS).to(device)
+model =DenseNetModel(num_labels=NUM_LABELS).to(device)
 
 criterion = nn.CrossEntropyLoss().to(device)
 optimizer = torch.optim.Adam(model.parameters(), lr=LR)
