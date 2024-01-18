@@ -8,15 +8,17 @@ import torch.nn as nn
 from torch.utils.tensorboard import SummaryWriter
 
 from models.vgg16 import VGG16Model
+from src.config import (BATCH_SIZE, EPOCHS, LR, SEED, TEST_CSV, TRAIN_CSV,
+                        VAL_CSV)
 from src.dataloader import train_data_loader, val_data_loader
 from src.io import get_device, save_model_checkpoint
 from visualize_graph import visualize_graph
-from src.config import  EPOCHS,BATCH_SIZE,TEST_CSV,TRAIN_CSV,VAL_CSV,LR,SEED
 
 warnings.filterwarnings("ignore", category=UserWarning)
 
 # from models.resnet50 import ResNet50Model
 from models.densenet import DenseNetModel
+
 EPOCHS=EPOCHS
 LR=LR
 SEED=SEED

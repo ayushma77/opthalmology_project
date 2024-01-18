@@ -44,4 +44,3 @@ if __name__ == "__main__":
     # Use torchsummary to print the model summary
     summary(model, input_size=(3, 256, 256))
 
-   
