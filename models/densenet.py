@@ -1,7 +1,7 @@
+import torch
 import torch.nn as nn
 from torchsummary import summary
 from torchvision import models
-import torch
 
 
 class DenseNetModel(nn.Module):
