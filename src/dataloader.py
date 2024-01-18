@@ -1,8 +1,7 @@
 from torch.utils.data import DataLoader
 
+from config import BATCH_SIZE, EPOCHS, LR, SEED, TEST_CSV, TRAIN_CSV, VAL_CSV
 from datasets import DRDataset
-from src.config import (BATCH_SIZE, EPOCHS, LR, SEED, TEST_CSV, TRAIN_CSV,
-                        VAL_CSV)
 from transforms import transforms
 
 train_dataset = DRDataset(csv_path=TRAIN_CSV, transforms=transforms,has_labels=True)
