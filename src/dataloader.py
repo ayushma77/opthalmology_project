@@ -1,13 +1,23 @@
+from pathlib import Path
+
 from torch.utils.data import DataLoader
 
 from config import BATCH_SIZE, EPOCHS, LR, SEED, TEST_CSV, TRAIN_CSV, VAL_CSV
 from datasets import DRDataset
 from transforms import transforms
 
-# Print paths for verification
-print("TRAIN_CSV:", TRAIN_CSV)
-print("VAL_CSV:", VAL_CSV)
-print("TEST_CSV:", TEST_CSV)
+
+def check_file_existence(file_path):
+    file_path = Path(file_path)
+    if file_path.is_file():
+        print(f"File found: {file_path}")
+    else:
+        print(f"File not found: {file_path}")
+
+# Check file existence for each CSV file
+check_file_existence("/content/opthalmology_project/data/processed_train_ODIR-5k.csv")
+check_file_existence("/content/opthalmology_project/data/processed_val_ODIR-5k.csv")
+check_file_existence("/content/opthalmology_project/data/processed_test_ODIR-5k.csv")
 
 train_dataset = DRDataset(csv_path=TRAIN_CSV, transforms=transforms,has_labels=True)
 val_dataset = DRDataset(csv_path=VAL_CSV, transforms=transforms,has_labels=True)
